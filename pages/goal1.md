@@ -9,18 +9,21 @@ description: ""
 
 <em>Every document in our holdings is an opportunity for great storytelling. We find and choose stories that resonate with our audiences, make emotional connections, and increase understanding of our shared history. We reflect on what makes stories successful so that we have a clear understanding of our message and we know what our audiences respond to. Our audience recognizes our brand and voice, and feels an emotional connection to our stories: they want to follow us because of who we are and what we do. </em>
 
-
-1.1 &nbsp;&nbsp;<strong>Support staff storytelling. </strong>A dedicated social strategy and production team (“the team”) provides direction and coordination for effective messaging. This team works to bring staff ideas to life through research, development, design, production, project coordination, and partnerships. <em>See 4.1 for more information about the creation of the team and the skillsets and tasks required to support a social media community across the agency.</em>
-
-Action: &nbsp;The team coaches content creators from our staff in using the content strategy to craft great stories and set success metrics that illuminate audience interests through data.
+1.1 &nbsp;&nbsp;<strong>Support staff storytelling. </strong>A dedicated social strategy and production team (“the team”) provides direction and coordination for effective messaging. This team works to bring staff ideas to life through research, development, design, production, project coordination, and partnerships. <a href="../goal4/#g1">See 4.1</a><em> for more information about the creation of the team and the skillsets and tasks required to support a social media community across the agency.</em>
 
 
-Action: We create a Digital Plan for all projects. The Digital Plan template functions as a checklist of best practices and is also a capsule strategy to guide each campaign and project. The project/content owner and the team collaborate on the plan. The framework helps staff set goals and strategies, show evidence of success, and reflect on lessons learned post-project.
+Action: &nbsp;The team coaches staff content creators from our staff in how to use the content strategy to craft great stories and set success metrics that illuminate audience interests through data.
 
+
+Action: The team creates a Digital Plan for all projects. The Digital Plan template functions as a checklist of best practices and is also a capsule strategy to guide each campaign and project. The project/content owner and the team collaborate on the plan. The framework helps content creators set goals and strategies, show evidence of success, and reflect on lessons learned post-project.
+
+
+Action: The team coordinates the logistics for different levels of staff involvement that minimize the labor-intensive nature of social media account management. Greater staff participation is encouraged through scalable roles. In some cases the role could be managing an account full-time; in others, it could be short-term, project-based participation, or as a content provider.
 
 Action: The team establishes and leads a Social Media Idea Lab to support NARA staff in honing their social media skills. It will include four areas of specialization:
 
 
+<div>
 <table>
   <tbody>
     <tr>
@@ -28,11 +31,11 @@ Action: The team establishes and leads a Social Media Idea Lab to support NARA s
       Data Lab
       </td>
       <td style="vertical-align:top">
-      The goal of the Data Lab is to foster smart and creative uses of our social media data through insights on what content performs well with audiences and why.
+      The goal of the Data Lab is to foster smart and creative uses of our social media data through insights into what content performs well with audiences and why.
 
       <ul>
         <li>
-        The team establishes a weekly workshop for content creators across NARA to get hands on experience in social media data analysis.
+        The team establishes a weekly workshop for content creators across NARA to get hands-on experience in social media data analysis.
         </li>
         <li>
         Content creators use the workshops each week to track audience engagement with their posts, channels, and campaigns. They learn to use analytics tools and understand the trends that result from their published content.
@@ -51,7 +54,7 @@ Action: The team establishes and leads a Social Media Idea Lab to support NARA s
       Idea Lab
       </td>
       <td style="vertical-align:top">
-      The team works with staff develop new ideas into actual projects by helping with
+      The team works with staff to develop new ideas into actual projects by helping with
 
       <ul>
         <li>
@@ -95,11 +98,10 @@ Action: The team establishes and leads a Social Media Idea Lab to support NARA s
     </tr>
   </tbody>
 </table>
-
+</div>
 
 
 1.2 <strong>Define a content strategy for the National Archives. &nbsp;</strong>
-
 
 
 Action: The team works with social media content creators to create an agency-wide content strategy that outlines the goals, objectives, defined measures of success, timeline, partners, and post-production reflection.
@@ -108,28 +110,35 @@ Action: The team works with social media content creators to create an agency-wi
 Action: Staff use the content strategy as a guide to create everyday posts, special campaigns, and longer-term editorial plans.
 
 
-
 1.3 <strong>Focus on quality and impact over quantity. </strong>We excel in the venues that we choose to participate in and reevaluate the projects that don’t meet our needs. We recognize that social media success is labor intensive. We want staff to have time and resources to engage with projects that make the most impact with our audiences. Making the best use of staff time means making hard choices about what <em>not </em>to do.
 
-Action: The team helps staff focus on a small number of projects. Content creators focus on depth and quality and move away from the current emphasis on quantity, sometimes using fewer platforms and posting less. Content creators are able to say no to projects that take time but have little impact.
 
-Action: The team procures and maintains Social Media Analytics Dashboard for staff that visualizes social media metrics, giving staff feedback and concrete data on what is working and what is not. &nbsp;Data is available to all content creators so that they can make strategic decisions about platforms to add or remove. To encourage open data and transparency, the dashboard can be viewed by the public.
+Action: The team helps content creators focus on a small number of projects. Content creators focus on depth and quality and move away from the current emphasis on quantity, sometimes using fewer platforms and posting less. Content creators are able to say no to projects that take time but have little impact.
+
+
+Action: The team procures and maintains a Social Media Analytics Dashboard for staff that visualizes social media metrics, giving content creators feedback and concrete data on what is working and what is not. &nbsp;Data is available to all content creators so that they can make strategic decisions about platforms to add or remove. To encourage open data and transparency, the dashboard can be viewed by the public.
+
 
 Action: Content creators use analytics to evaluate the performance of our posts. We create content that is successful and avoid content that does not perform well.
+
 
 Action: &nbsp;Our curators select records for an exhibit to give visitors the best experience in a museum, and we apply this approach to our social media platforms. The team plans workshops led by NARA curators on how they select, edit, and plan exhibits that draw audiences in.
 
 
-
 1.4 &nbsp;<strong>We create exceptional content that uses the latest technology and has a consistent visual identity.</strong> Our content is professionally designed and reflects our status as a world-class cultural institution. As a visual medium, social media must be sophisticated and eye-catching. All National Archives social media content meets visual design standards that reinforce our brand and match the expectations of today's image-based social platforms. &nbsp;
+
 
 Action: The team makes style guides, tip sheets, tutorials, and templates available to all staff so that they can can write well-crafted stories and create high-quality images and other multimedia formats.
 
-Action: Members of the team have professional graphic design and video production skills so that they can help staff create and maintain a strong visual identity. The team produces graphics, interactive tools like quizzes, and video shorts, that can be embedded in social media platforms.
 
-Action: The team defines a workflow so staff can request design of multimedia assets for their social media platforms.
+Action: Members of the team have professional graphic design and video production skills so that they can help content creators create and maintain a strong visual identity. The team produces graphics, interactive tools like quizzes, and video shorts that can be embedded in social media platforms.
 
-Action: The team creates or helps provide templates and tools for staff to use to make graphics according to our brand-aligned designs.
+
+Action: The team creates a workflow that makes it easy for content creators to work with designers.
+
+
+Action: The team creates or helps provide templates and tools for content creators to use to make graphics according to our brand-aligned designs.
+
 
 <strong>Data in Action</strong>
 
@@ -137,14 +146,14 @@ Data plays a critical role in helping NARA create social media content that is r
 
 <ul>
   <li>
-  After each project staff collect metrics, draft insights, and make recommendations.
+  After each project, content creators collect metrics, draft insights, and make recommendations.
 
   <ul>
     <li>
     Reach: How many people saw our content? How did they find us? On what platforms? What devices did they use?
     </li>
     <li>
-    Audience: Who did we reach? Is is the intended audience? Are they new or repeat audiences? What attracted them? How can we convert them to deeper levels of engagement?
+    Audience: Who did we reach? Is it the intended audience? Are they new or repeat audiences? What attracted them? How can we convert them to deeper levels of engagement?
     </li>
     <li>
     Engagement: What actions did people take? Did they comment, share, like, reply? What kinds of comments did we get? What is the sentiment of the reaction?
@@ -155,15 +164,16 @@ Data plays a critical role in helping NARA create social media content that is r
   Weekly: The team uses an analytics tool to measure stats on our most popular posts and shares them via the Declarations staff blog in a Friday roundup.
   </li>
   <li>
-  Monthly: The team hosts sessions open to all staff to look at social media successes and failures.
+  Monthly: The team hosts sessions for content creators to look at social media successes and lessons learned.
   </li>
   <li>
-  Quarterly: The team helps staff review data from each platform to see if our efforts are reaching and engaging the intended audiences. We discuss what is and isn’t working, and use the content strategy to help close out platforms or change direction.
+  Quarterly: The team helps content creators review data from each platform to see if our efforts are reaching and engaging the intended audiences. We discuss what is and isn’t working, and use the content strategy to help close out platforms or change direction.
   </li>
   <li>
-  Annually: The team holds a year-in-review “retreat” using Google Hangouts. Staff volunteer to give a three-minute talk about a success (or failure) on a platform.
+  Annually: The team holds a year-in-review “retreat” using Google Hangouts. Content creators volunteer to give a three-minute talk about a success (or failure) on a platform.
   </li>
 </ul>
+
 
 <strong>Strategy in Action</strong>
 

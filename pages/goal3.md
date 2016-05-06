@@ -8,14 +8,13 @@ description: ""
 
 ## Goal 3: Grow Our Audience
 
-<em>We reach more people, and diversify our audiences, by being present on popular platforms and publishing content that people feel compelled to share with their networks. We develop relationships with influencers and partners to reach more people in meaningful ways.</em>
-
+<em>We reach more people, and diversify our audiences, by being present on popular platforms and publishing content that people feel compelled to share with their networks. We develop relationships with influencers and partners to reach more people in meaningful ways.</em>&nbsp; &nbsp; &nbsp;
 
 3.1 <strong>Inspire people to share. </strong>Staff<strong> </strong>reach the largest possible audience by inspiring people to talk about the stories in our holdings. Our staff are stewards to the history of democracy, our American government, and its citizens. Our documents inspire emotional responses that lead to social sharing.
 
-Action: The teams focuses on becoming a leader in the GLAM community by creating a space on archives.gov that serves a resource for hashtags and other social trends for other cultural heritage institutions.
+Action: The teams focuses on becoming a leader in the GLAM community by creating a space on Archives.gov that serves a resource for hashtags and other social trends for other cultural heritage institutions.
 
-Action: The team addresses our photo policies within our public spaces, and improve our services, like wifi, to encourage digital sharing while visitors are in our physical spaces.
+Action: The team addresses our photo policies within our public spaces. We need to improve our services, like wifi, to encourage digital sharing while visitors are in our physical spaces.
 
 Action: The team defines a strategy for choosing hashtags that encourage personal connections and social sharing.
 
@@ -23,18 +22,32 @@ Action: The team uses reference desk statistics from across the National Archive
 
 Action: The team ensures that web content is easy to share on popular platforms with simple tools and buttons.
 
-3.2 &nbsp;<strong>Target messaging to specific audiences and platforms. </strong>Staff understand our audiences, and go where those audiences are. We have compelling messaging across different formats so that our communications are targeted to the specific needs of each audience and platform.
+Action: Content creators connect with local communities to bring people physically to NARA locations through in-person events like Instameets, Tweet Ups, and Wikipedia edit-a-thons.
 
-Action: Staff focus our efforts on connecting with on key audiences that are particularly active on social media and offer growth potential, including educators, history buffs, curious nerds, museum visitors, and genealogists.
+Action: We build on the expertise of our content creators who are using successfully social media to drive physical traffic to public programs. The team establishes a working group for these content creators to:
 
+<ul>
+  <li>
+  pilot techniques to support and measure conversion of web-to-physical visits to our locations;
+  </li>
+  <li>
+  think creatively about how NARA can encourage greater sharing of in-person visits via social media; and
+  </li>
+  <li>
+  explore tactics like promoting hashtags on-site and in exhibit labels, provide screens that display geotagged images from visitors, and optimizing specific tools like Instagram, Twitter, Yelp, and more.
+  </li>
+</ul>
+
+3.2 &nbsp;<strong>Target messaging to specific audiences and platforms. </strong>Staff understand our audiences and go where those audiences are. We have compelling messaging across different formats so that our communications are targeted to the specific needs of each audience and platform.
+
+Action: Content creators focus efforts on connecting with key audiences that are particularly active on social media and offer growth potential, including educators, history buffs, curious nerds, museum visitors, and genealogists.
+
+<strong>Audience</strong>
 
 <div>
 <table>
   <tbody>
     <tr>
-      <td style="vertical-align:top">
-      <strong>Audience</strong>
-      </td>
       <td style="vertical-align:top">
       <strong>Who are they and why are they are important for NARA on social media?</strong>
       </td>
@@ -44,7 +57,7 @@ Action: Staff focus our efforts on connecting with on key audiences that are par
       Educators
       </td>
       <td style="vertical-align:top">
-      Teachers and educators have a built-in need and interest in our records, and already lead discussions on our topics. They are a friendly group that is open to a creative use of our content and they connect us to a younger audience.
+      Teachers and educators have a built-in need and interest in our records and already lead discussions on our topics. They are a friendly group that is open to a creative use of our content, and they connect us to a younger audience.
       </td>
     </tr>
     <tr>
@@ -52,7 +65,7 @@ Action: Staff focus our efforts on connecting with on key audiences that are par
       History Buffs
       </td>
       <td style="vertical-align:top">
-      History buffs are already interested in the topics of our records, and enthusiastically share us with their social networks. This group likes to engage in dialogue with us, and like to comment and share what they already know; this is the group that could turn into citizen archivists and super advocates.
+      History buffs are already interested in the topics of our records, and enthusiastically share us with their social networks. This group likes to engage in dialogue with us and like to comment and share what they already know. This is the group that could turn into citizen archivists and super advocates.
       </td>
     </tr>
     <tr>
@@ -60,7 +73,7 @@ Action: Staff focus our efforts on connecting with on key audiences that are par
       Curious Nerds
       </td>
       <td style="vertical-align:top">
-      Curious nerds are social media power users who are influencers with a wide range of interests. They increase our visibility and when given the opportunity to deepen their engagement, they are likely to share our content.
+      Curious nerds are social media power users who are influencers with a wide range of interests. They increase our visibility, and when given the opportunity to deepen their engagement, they are likely to share our content.
       </td>
     </tr>
     <tr>
@@ -68,7 +81,7 @@ Action: Staff focus our efforts on connecting with on key audiences that are par
       Museum Visitors
       </td>
       <td style="vertical-align:top">
-      Museum visitors are our captive audience: they’re already inside our doors! They come here and have personal and in-depth experiences, but they are often distracted and busy while in the &nbsp;exhibit spaces.They are also prohibited from taking pictures in our exhibit spaces, which discourages social sharing.
+      Museum visitors are our captive audience: they’re already inside our doors! They come here and have personal, in-depth experiences, but they are often distracted and busy while in the &nbsp;exhibit spaces.They are also prohibited from taking pictures in our exhibit spaces, which discourages social sharing.
       </td>
     </tr>
     <tr>
@@ -87,18 +100,18 @@ Action: Staff use analytics, user personas, and other user experience tools to b
 
 Action: Staff choose the best platforms for each post and do not inundate our audiences across platforms. We tailor each post to the platform and to the audience we intend to connect with. We reflect on our performance on various platforms.
 
+<br />
+3.3 <strong>Connect social media to news and trends. </strong>The team studies trending news, hashtags, platforms, and current events and uses that information to determine what’s happening in the world that we can connect with<em>—</em>and what platform to connect on.
 
-3.3 <strong>Connect social media to news and trends. </strong>The team studies trending news, hashtags, platforms, and current events and use that information to determine what’s happening in the world that we can connect with<em>—</em>and what platform to connect on.
-
-Action: The team looks for ways to tie our records to current socio-political issues. We create a social hub for cultural heritage organizations to have easy access to records that help inform modern dialogues about current events.
+Action: The team looks for ways to tie our records to current issues. The team helps NARA locations host in-person events for local audiences centered on using our records in social media to &nbsp;inform modern dialogues about current events.
 
 Action: The team supports the agency’s overall communications goals with social media outreach tactics. We meet regularly with colleagues in the Office of Public and Media Communications to find out what is coming up and how we can help public affairs specialists tell stories on social media.
 
 Action: The team works with the Office of Public and Media Communications to pitch traditional and news media on our social stories and campaigns. Public affairs specialists advise on what social content and campaigns interest traditional media outlets, and we ask them to pitch our campaigns to them. We create social media press kits that are built into the traditional press kits. We ask the Office of Public and Media Communications to pitch our social campaigns to social publications like Buzzfeed, Mashable, and TechCrunch.
 
-Action: The team meet regularly with our Employee Communications staff to look for stories, and give staff who aren’t on social media a new way to reach us with their stories.
+Action: The team meet regularly with our Employee Communications staff to look for stories and give staff who aren’t on social media a new way to reach us with their stories.
 
-Action: The team creates a Trend Team who keep us up to date on the latest trends related to history, cultural organizations, government, and social media usage. The team includes staff with social media expertise, marketing and communications expertise, and technology expertise. We invite external experts to speak to staff about trends.
+Action: The team creates a Trend Team that &nbsp;keeps us up to date on the latest trends related to history, cultural organizations, government, and social media usage. The team includes staff with expertise in social media, marketing and communications, and technology. The team invites external experts to speak to staff about trends and hosts conversations with staff to generate ideas on the ICN.
 
 Action: We add and prune platforms and tactics based on our research of external trends.
 
@@ -108,6 +121,7 @@ Action: We budget for, plan, use, and analyze regular paid posting on Instagram,
 
 Action: We partner with National Archives Foundation to coordinate the use of paid advertising to increase our reach to new audiences and to create splashy campaigns that the media want to cover.
 
+<br />
 <strong>Data in Action</strong>
 
 Information about our audiences and their behaviors helps us to better connect with customers and deliver them the content they want to interact with.
@@ -120,10 +134,10 @@ Information about our audiences and their behaviors helps us to better connect w
 
 <ul>
   <li>
-  Staff use campaign URLs, hashtags, and Google Analytics Campaigns to track clicks and engagement with our content, including referrals to our website. This information helps us better understand the digital customer journey.
+  Staff use campaign URLs, hashtags, and tools (such as Google Analytics Campaigns) to track clicks and engagement with our content, including referrals to our website. This information helps us better understand the digital customer journey.
   </li>
   <li>
-  Staff track audience engagement metrics (such as comments, shares, replies, use of hashtags) for every platform, and examine the data for our most and least successful posts so that we understand and can build on audience preferences.
+  Staff track audience engagement metrics (such as comments, shares, replies, use of hashtags) for every platform and examine the data for our most and least successful posts so that we understand and can build on audience preferences.
   </li>
   <li>
   The Digital Plan includes an easy-to-use worksheet for content creators to use to identify and track success measurements for their projects and posts. Staff share these worksheets on the ICN where everyone can use their experiences to improve their own campaigns and postings.
@@ -133,7 +147,5 @@ Information about our audiences and their behaviors helps us to better connect w
 <strong>Strategy in Action</strong>
 
 <ul>
-  <li>
-  As the strategy is implemented, this document will be updated with examples of successes and lessons learned for each goal.
-  </li>
+  <li>As the strategy is implemented, this document will be updated with examples of successes and lessons learned for each goal.</li>
 </ul>

@@ -15,10 +15,10 @@ description: ""
   <a href="../overview/">One-page overview</a>
   </li>
   <li>
-  <a href="../timeline/" >Action Items Timeline</a>
+  Action Items Timeline
   </li>
   <li>
-  <a href="../calendar/">Rollout Calendar</a>
+  Rollout Calendar
   </li>
 </ul>
 

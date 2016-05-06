@@ -6,7 +6,8 @@ description: ""
 ---
 
 ## Goals
-This strategy consists of four goals, each with their own initiatives and action steps:
+
+This strategy consists of four goals, each with its own initiatives and action steps:
 
 <ol>
   <li>

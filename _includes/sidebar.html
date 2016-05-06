@@ -13,7 +13,13 @@
           <ul>
           {% endif %}
           {% for sublink in link.sub_navigation %}
-            <li> <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.text }}</a></li>
+            {% assign subcurrent = '' %}
+            {% if page.url == sublink.url %}
+              {% assign subcurrent = 'sidebar-nav-active' %}
+            {% endif %}
+
+            <li  class="{{ subcurrent }}"> <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.text }}</a></li>
+
           {% endfor %}
           {% if link.sub_navigation != false %}
             </ul>

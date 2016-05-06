@@ -9,16 +9,16 @@ description: ""
 
 <ul>
   <li>
-  <a href="/digitalplan/">NARA Digital Plan</a>
+  <a href="..//digitalplan/">NARA Digital Plan</a>
   </li>
   <li>
-  <a href="/overview/">One-page overview</a>
+  <a href="..//overview/">One-page overview</a>
   </li>
   <li>
-  <a href="/timeline/" >Action Items Timeline</a>
+  <a href="../timeline/" >Action Items Timeline</a>
   </li>
   <li>
-  <a href="/calendar/">Rollout Calendar</a>
+  <a href="../calendar/">Rollout Calendar</a>
   </li>
 </ul>
 

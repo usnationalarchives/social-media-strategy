@@ -10,16 +10,16 @@ This strategy consists of four goals, each with their own initiatives and action
 
 <ol>
   <li>
-  <a href="/goal1/">Tell Great Stories</a>
+  <a href="../goal1/">Tell Great Stories</a>
   </li>
   <li>
-  <a href="/goal2/">Deepen Engagement</a>
+  <a href="../goal2/">Deepen Engagement</a>
   </li>
   <li>
-  <a href="/goal3/">Grow Our Audience</a>
+  <a href="../goal3/">Grow Our Audience</a>
   </li>
   <li>
-  <a href="/goal4">Cultivate a Social Media Community of Practice</a>
+  <a href="../goal4">Cultivate a Social Media Community of Practice</a>
   </li>
 </ol>
 

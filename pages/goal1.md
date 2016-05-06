@@ -115,12 +115,12 @@ description: ""
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
           1.2 <strong>Define a content strategy for the National Archives. &nbsp;</strong>
         </a>
       </h4>
     </div>
-    <div id="collapse1" class="panel-collapse collapse in">
+    <div id="collapse2" class="panel-collapse collapse in">
       <div class="panel-body">
       Action: The team works with social media content creators to create an agency-wide content strategy that outlines the goals, objectives, defined measures of success, timeline, partners, and post-production reflection.
 
@@ -139,12 +139,12 @@ description: ""
 <div class="panel panel-default">
   <div class="panel-heading">
     <h4 class="panel-title">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
         1.3 <strong>Focus on quality and impact over quantity. </strong>We excel in the venues that we choose to participate in and reevaluate the projects that don’t meet our needs. We recognize that social media success is labor intensive. We want staff to have time and resources to engage with projects that make the most impact with our audiences. Making the best use of staff time means making hard choices about what <em>not </em>to do.
       </a>
     </h4>
   </div>
-  <div id="collapse1" class="panel-collapse collapse in">
+  <div id="collapse3" class="panel-collapse collapse in">
     <div class="panel-body">
 
       Action: The team helps content creators focus on a small number of projects. Content creators focus on depth and quality and move away from the current emphasis on quantity, sometimes using fewer platforms and posting less. Content creators are able to say no to projects that take time but have little impact.
@@ -165,12 +165,12 @@ description: ""
 <div class="panel panel-default">
   <div class="panel-heading">
     <h4 class="panel-title">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
         1.4 &nbsp;<strong>We create exceptional content that uses the latest technology and has a consistent visual identity.</strong> Our content is professionally designed and reflects our status as a world-class cultural institution. As a visual medium, social media must be sophisticated and eye-catching. All National Archives social media content meets visual design standards that reinforce our brand and match the expectations of today's image-based social platforms. &nbsp;
       </a>
     </h4>
   </div>
-  <div id="collapse1" class="panel-collapse collapse in">
+  <div id="collapse4" class="panel-collapse collapse in">
     <div class="panel-body">
       Action: The team makes style guides, tip sheets, tutorials, and templates available to all staff so that they can can write well-crafted stories and create high-quality images and other multimedia formats.
 
@@ -183,7 +183,7 @@ description: ""
   </div>
 </div>
 
-
+</div>div>
 
 
 

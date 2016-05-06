@@ -19,7 +19,7 @@ description: ""
         </a>
       </div>
     </div>
-    <div id="collapse1" class="panel-collapse collapse in">
+    <div id="collapse1" class="panel-collapse collapse">
       <div class="panel-body">
 
         Action: &nbsp;The team coaches staff content creators from our staff in how to use the content strategy to craft great stories and set success metrics that illuminate audience interests through data.
@@ -120,7 +120,7 @@ description: ""
         </a>
       </h4>
     </div>
-    <div id="collapse2" class="panel-collapse collapse in">
+    <div id="collapse2" class="panel-collapse collapse">
       <div class="panel-body">
       Action: The team works with social media content creators to create an agency-wide content strategy that outlines the goals, objectives, defined measures of success, timeline, partners, and post-production reflection.
 
@@ -144,7 +144,7 @@ description: ""
       </a>
     </h4>
   </div>
-  <div id="collapse3" class="panel-collapse collapse in">
+  <div id="collapse3" class="panel-collapse collapse">
     <div class="panel-body">
 
       Action: The team helps content creators focus on a small number of projects. Content creators focus on depth and quality and move away from the current emphasis on quantity, sometimes using fewer platforms and posting less. Content creators are able to say no to projects that take time but have little impact.
@@ -170,7 +170,7 @@ description: ""
       </a>
     </h4>
   </div>
-  <div id="collapse4" class="panel-collapse collapse in">
+  <div id="collapse4" class="panel-collapse collapse">
     <div class="panel-body">
       Action: The team makes style guides, tip sheets, tutorials, and templates available to all staff so that they can can write well-crafted stories and create high-quality images and other multimedia formats.
 

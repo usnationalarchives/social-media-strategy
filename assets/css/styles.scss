@@ -44,19 +44,12 @@ Typography
 */
 
 body {
-    font-family: $serif;
-    font-weight: 400;
-    font-style: normal;
-    line-height: 1.9em;
+    font-family: $serif !important;
+    font-weight: 400  !important;
+    font-style: normal  !important;
+    line-height: 1.9em  !important;
 }
 
-body .mycontainer{
-    font-family: $serif;
-    font-weight: 400;
-    font-style: normal;
-    line-height: 1.9em;
-
-}
 
 header h1 {
     font-family: $serif;

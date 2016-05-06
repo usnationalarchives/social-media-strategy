@@ -8,12 +8,12 @@
           {% assign current = 'sidebar-nav-active' %}
         {% endif %}
         <li class="{{ current }}">
-          <a href="{{ link.url }}">{{ link.text }}</a>
+          <a href="{{ site.baseurl }}{{ link.url }}">{{ link.text }}</a>
           {% if link.sub_navigation != false %}
           <ul>
           {% endif %}
           {% for sublink in link.sub_navigation %}
-            <li> <a href="{{ sublink.url }}">{{ sublink.text }}</a></li>
+            <li> <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.text }}</a></li>
           {% endfor %}
           {% if link.sub_navigation != false %}
             </ul>

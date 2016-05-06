@@ -9,10 +9,10 @@ description: ""
 
 <ul>
   <li>
-  <a href="..//digitalplan/">NARA Digital Plan</a>
+  <a href="../digitalplan/">NARA Digital Plan</a>
   </li>
   <li>
-  <a href="..//overview/">One-page overview</a>
+  <a href="../overview/">One-page overview</a>
   </li>
   <li>
   <a href="../timeline/" >Action Items Timeline</a>

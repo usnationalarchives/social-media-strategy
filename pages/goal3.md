@@ -10,7 +10,7 @@ description: ""
 
 <em>We reach more people, and diversify our audiences, by being present on popular platforms and publishing content that people feel compelled to share with their networks. We develop relationships with influencers and partners to reach more people in meaningful ways.</em>&nbsp; &nbsp; &nbsp;
 
-3.1 <strong>Inspire people to share. </strong>Staff<strong> </strong>reach the largest possible audience by inspiring people to talk about the stories in our holdings. Our staff are stewards to the history of democracy, our American government, and its citizens. Our documents inspire emotional responses that lead to social sharing.
+3.1 <strong>Inspire people to share. </strong>Staff reach the largest possible audience by inspiring people to talk about the stories in our holdings. Our staff are stewards to the history of democracy, our American government, and its citizens. Our documents inspire emotional responses that lead to social sharing.
 
 Action: The teams focuses on becoming a leader in the GLAM community by creating a space on Archives.gov that serves a resource for hashtags and other social trends for other cultural heritage institutions.
 
@@ -100,7 +100,6 @@ Action: Staff use analytics, user personas, and other user experience tools to b
 
 Action: Staff choose the best platforms for each post and do not inundate our audiences across platforms. We tailor each post to the platform and to the audience we intend to connect with. We reflect on our performance on various platforms.
 
-<br />
 3.3 <strong>Connect social media to news and trends. </strong>The team studies trending news, hashtags, platforms, and current events and uses that information to determine what’s happening in the world that we can connect with<em>—</em>and what platform to connect on.
 
 Action: The team looks for ways to tie our records to current issues. The team helps NARA locations host in-person events for local audiences centered on using our records in social media to &nbsp;inform modern dialogues about current events.
@@ -121,7 +120,6 @@ Action: We budget for, plan, use, and analyze regular paid posting on Instagram,
 
 Action: We partner with National Archives Foundation to coordinate the use of paid advertising to increase our reach to new audiences and to create splashy campaigns that the media want to cover.
 
-<br />
 <strong>Data in Action</strong>
 
 Information about our audiences and their behaviors helps us to better connect with customers and deliver them the content they want to interact with.

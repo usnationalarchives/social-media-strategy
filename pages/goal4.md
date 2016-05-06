@@ -15,7 +15,6 @@ Action: We assemble a team that can focus, provide direction for, and support th
 
 Action: We define and refine task areas that support the professional development of NARA staff in social media management. Members of the team will take leadership roles in serving and providing training in the following areas.
 
-&nbsp;
 
 <div>
 <table>
@@ -159,15 +158,10 @@ Action: The team uses NARAtions as a digital training blog, making it both a pla
 
 Action: The team supports communication and collaboration with the social media community across NARA, leads two-way communication with staff with monthly educational sessions on various channels (like webinars, calls, and Google Hangouts), reaches out via an email newsletter, and uses space on the ICN to consolidate information. We ask staff for feedback and act on what they say.
 
-&nbsp;
-
 Action: The team organizes organize lightning sessions and field trips for content creators to discuss and explore new ideas. We invite outside expertise to help us get inspired.
-
-&nbsp;
 
 Action: We increase visibility (and show the importance of social media) with managers and supervisors by sharing success and highlighting staff in a monthly report that shares little successes like retweets from famous people, stakeholder reactions to current archival projects, and numbers of people downloading eBooks and attending Hub events.
 
-&nbsp;
 
 4.3 <strong>Give social media a seat at the planning table. </strong>Across the National Archives,<strong> </strong>we incorporate social media into all initiatives from the beginning, not as an afterthought. Currently, social media development is requested toward the end of project timelines. This limits our ability to imagine and plan for larger social media impact, partnerships, and audience outreach. By incorporating social media into early phases of creative development, we build in time for quality, depth, and execution for both large initiatives and smaller projects.
 

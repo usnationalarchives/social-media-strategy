@@ -50,6 +50,14 @@ body {
     line-height: 1.9em;
 }
 
+body .container{
+ width: auto;
+ margin-left: 0;
+ margin-right: 0;
+ padding-left: 0px;
+ padding-right: 0px;
+}
+
 header h1 {
     font-family: $serif;
     font-weight: normal;

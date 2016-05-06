@@ -165,7 +165,7 @@ description: ""
 
 
 
-<div class="panel-group" id="accordion">
+
 
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -193,7 +193,7 @@ description: ""
 
 
 
-<div class="panel-group" id="accordion">
+
 
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -215,7 +215,7 @@ description: ""
 
 
 
-<div class="panel-group" id="accordion">
+
 
 <div class="panel panel-default">
   <div class="panel-heading">

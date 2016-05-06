@@ -58,7 +58,7 @@ description: ""
 
 
 
-<div class="panel-group" id="accordion">
+
 
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -136,7 +136,7 @@ description: ""
 
 
 
-<div class="panel-group" id="accordion">
+
 
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -166,7 +166,7 @@ description: ""
 
 
 
-<div class="panel-group" id="accordion">
+
 
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -180,7 +180,7 @@ description: ""
     <div class="panel-body">
       <p>Action: We budget for, plan, use, and analyze regular paid posting on Instagram, Twitter, and Facebook. This might include promoted posts, hashtags, and accounts.</p>
 
-      <p>Action: We partner with National Archives Foundation to coordinate the use of paid advertising to increase our reach to new audiences and to create splashy campaigns that the media want to cover.  </p>
+      <p>Action: We partner with National Archives Foundation to coordinate the use of paid advertising to increase our reach to new audiences and to create splashy campaigns that the media want to cover.</p>
     </div>
   </div>
 </div>

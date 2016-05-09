@@ -37,3 +37,6 @@ aside p{
   background-color: #d6d7d9;
 }
 
+.panel-title a:link, .panel-title a:visited{
+    border-bottom: none;
+}

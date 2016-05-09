@@ -11,10 +11,24 @@ body{
   font-size: 1.5em;
 }
 
-h4.panel-title{
-  font-weight:normal;
-}
+
 aside p{
   font-size: 18px;
+}
+
+
+aside p{
+  font-size: 18px;
+}
+
+
+.panel-heading{
+padding:0;
+}
+.panel-title a{
+display:block;
+text-decoration:none;
+padding: 10px 15px;
+
 }
 

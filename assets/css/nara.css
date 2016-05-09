@@ -23,12 +23,17 @@ aside p{
 
 
 .panel-heading{
-padding:0;
+  padding:0;
 }
 .panel-title a{
-display:block;
-text-decoration:none;
-padding: 10px 15px;
-
+  display:block;
+  text-decoration:none;
+  padding: 10px 15px;
+}
+.panel-title a:link{
+  color: black;
+}
+.panel-title a:hover{
+  background-color: #d6d7d9;
 }
 

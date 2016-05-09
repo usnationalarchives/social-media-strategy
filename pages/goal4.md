@@ -14,11 +14,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
         <span id="g1">4.1</span> &nbsp;<strong>Create a social strategy and production team.</strong> The social strategy and production team has a well-supported staff who specialize in ongoing development and innovation in social media.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse1" class="panel-collapse collapse">
     <div class="panel-body">
@@ -169,11 +169,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
         4.2 <strong>Provide opportunities to develop and innovate together. </strong>We work with staff to create a vibrant culture of social media innovation, collaboration, educational opportunities, and partnerships.<strong> </strong>The team provides staff the training and skills necessary to succeed, and we support staff efforts with our collective resources and expertise. We share successes, learn from each other, and work together to innovate.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse2" class="panel-collapse collapse">
     <div class="panel-body">
@@ -197,11 +197,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
         4.3 <strong>Give social media a seat at the planning table. </strong>Across the National Archives,<strong> </strong>we incorporate social media into all initiatives from the beginning, not as an afterthought. Currently, social media development is requested toward the end of project timelines. This limits our ability to imagine and plan for larger social media impact, partnerships, and audience outreach. By incorporating social media into early phases of creative development, we build in time for quality, depth, and execution for both large initiatives and smaller projects.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse3" class="panel-collapse collapse">
     <div class="panel-body">
@@ -219,11 +219,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
         4.4 <strong>Make it easy for anyone to participate. </strong>We make it easy for staff who don’t usually work on social media<em>—</em>archivists or archives technicians, for instance<em>—</em>to share the stories of the fascinating documents they encounter while working or share their otherwise fascinating roles at NARA.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse4" class="panel-collapse collapse">
     <div class="panel-body">

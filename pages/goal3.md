@@ -14,11 +14,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
         3.1 <strong>Inspire people to share. </strong>Staff reach the largest possible audience by inspiring people to talk about the stories in our holdings. Our staff are stewards to the history of democracy, our American government, and its citizens. Our documents inspire emotional responses that lead to social sharing.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse1" class="panel-collapse collapse">
     <div class="panel-body">
@@ -62,11 +62,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
         3.2 &nbsp;<strong>Target messaging to specific audiences and platforms. </strong>Staff understand our audiences and go where those audiences are. We have compelling messaging across different formats so that our communications are targeted to the specific needs of each audience and platform.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse2" class="panel-collapse collapse">
     <div class="panel-body">
@@ -140,11 +140,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
         3.3 <strong>Connect social media to news and trends. </strong>The team studies trending news, hashtags, platforms, and current events and uses that information to determine what’s happening in the world that we can connect with<em>—</em>and what platform to connect on.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse3" class="panel-collapse collapse">
     <div class="panel-body">
@@ -170,11 +170,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
         3.4 <strong>Strategically boost our efforts with paid media. </strong>We selectively use paid advertising to reach new audiences.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse4" class="panel-collapse collapse">
     <div class="panel-body">

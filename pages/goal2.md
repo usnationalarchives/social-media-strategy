@@ -13,11 +13,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
         2.1 <strong>Coordinate agency-wide campaigns for maximum engagement. </strong>
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse1" class="panel-collapse collapse">
     <div class="panel-body">
@@ -37,11 +37,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
       2.2 <strong>Leverage partners and influencers who encourage their audiences to engage with us. </strong>The team researches, forms, and develops partnerships with people and organizations to help spread the word about our campaigns. The team uses these partnerships to learn more about our audiences and their needs.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse2" class="panel-collapse collapse">
     <div class="panel-body">
@@ -61,11 +61,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
       2.3 &nbsp;<strong>Use crowdsourcing to drive participation in our mission. </strong>The team creates crowdsourcing opportunities for audiences to contribute their skills and experiences to our mission.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse3" class="panel-collapse collapse">
     <div class="panel-body">
@@ -85,11 +85,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
       2.4 <strong>Create new ways to discover and share latest stories.</strong> The team creates a flagship news feed on the National Archives website that pulls in posts from our social media channels. Audiences can choose and curate stories from this entertaining up-to-date news stream.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse4" class="panel-collapse collapse">
     <div class="panel-body">

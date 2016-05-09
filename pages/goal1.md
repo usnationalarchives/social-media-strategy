@@ -114,11 +114,11 @@ description: ""
 
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <div class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
           1.2 <strong>Define a content strategy for the National Archives. &nbsp;</strong>
         </a>
-      </h4>
+      </div>
     </div>
     <div id="collapse2" class="panel-collapse collapse">
       <div class="panel-body">
@@ -138,11 +138,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
         1.3 <strong>Focus on quality and impact over quantity. </strong>We excel in the venues that we choose to participate in and reevaluate the projects that don’t meet our needs. We recognize that social media success is labor intensive. We want staff to have time and resources to engage with projects that make the most impact with our audiences. Making the best use of staff time means making hard choices about what <em>not </em>to do.
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse3" class="panel-collapse collapse">
     <div class="panel-body">
@@ -164,11 +164,11 @@ description: ""
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title">
+    <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
         1.4 &nbsp;<strong>We create exceptional content that uses the latest technology and has a consistent visual identity.</strong> Our content is professionally designed and reflects our status as a world-class cultural institution. As a visual medium, social media must be sophisticated and eye-catching. All National Archives social media content meets visual design standards that reinforce our brand and match the expectations of today's image-based social platforms. &nbsp;
       </a>
-    </h4>
+    </div>
   </div>
   <div id="collapse4" class="panel-collapse collapse">
     <div class="panel-body">

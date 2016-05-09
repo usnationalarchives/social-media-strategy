@@ -28,7 +28,8 @@ baseurl: /social-media-strategy
 # baseurl: /software
 
 # GitHub information
-org_name: usnationalarchives
+#org_name: usnationalarchives
+org_name: nara-web
 repo_name: social-media-strategy
 branch: gh-pages
 

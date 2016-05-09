@@ -1,13 +1,15 @@
 body{
   color:black;
 }
-.main-content{
-  font-size:12pt;
+.mycontainer{
+  font-size:initial;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
   font-weight:bold;
 }
+/*
 aside p{
   font-size: 15.75px;
 }
+*/

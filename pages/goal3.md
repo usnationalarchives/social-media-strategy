@@ -72,12 +72,15 @@ description: ""
     <div class="panel-body">
       <p>Action: Content creators focus efforts on connecting with key audiences that are particularly active on social media and offer growth potential, including educators, history buffs, curious nerds, museum visitors, and genealogists.</p>
 
-      <strong>Audience</strong>
+
 
       <div>
       <table>
         <tbody>
           <tr>
+            <td style="vertical-align:top">
+              <strong>Audience</strong>
+            </td>
             <td style="vertical-align:top">
             <strong>Who are they and why are they are important for NARA on social media?</strong>
             </td>

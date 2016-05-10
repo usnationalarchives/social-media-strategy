@@ -1,11 +1,11 @@
 $( document ).ready(function() {
 
-  $(".panel-title a").each(function( index ) {
+  $(".panel-title a").each(function() {
       if($(this).hasClass('in')){
-        append( $( "<span>",{class:'glyphicon glyphicon-minus'} ) );
+        $(this).append( $( "<span>",{class:'glyphicon glyphicon-minus'} ) );
       }
       else{
-        append( $( "<span>",{class:'glyphicon glyphicon-plus'} ) );
+        $(this).append( $( "<span>",{class:'glyphicon glyphicon-plus'} ) );
       }
   });
 

@@ -19,7 +19,7 @@ description: ""
       </a>
     </div>
   </div>
-  <div id="collapse1" class="panel-collapse collapse">
+  <div id="collapse1" class="panel-collapse collapse in">
     <div class="panel-body">
       <p>Action: Our campaigns have compelling calls to action that drive engagement. Content creators choose topics and content that audiences want to talk about and share.</p>
 

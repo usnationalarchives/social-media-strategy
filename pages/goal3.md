@@ -20,7 +20,7 @@ description: ""
       </a>
     </div>
   </div>
-  <div id="collapse1" class="panel-collapse collapse">
+  <div id="collapse1" class="panel-collapse collapse in">
     <div class="panel-body">
 
       <p>Staff reach the largest possible audience by inspiring people to talk about the stories in our holdings. Our staff are stewards to the history of democracy, our American government, and its citizens. Our documents inspire emotional responses that lead to social sharing.</p>

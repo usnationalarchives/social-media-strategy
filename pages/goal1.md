@@ -19,7 +19,7 @@ description: ""
         </a>
       </div>
     </div>
-    <div id="collapse1" class="panel-collapse collapse">
+    <div id="collapse1" class="panel-collapse collapse in">
       <div class="panel-body">
 
         <p>A dedicated social strategy and production team (“the team”) provides direction and coordination for effective messaging. This team works to bring staff ideas to life through research, development, design, production, project coordination, and partnerships. See 4.1<em> for more information about the creation of the team and the skillsets and tasks required to support a social media community across the agency.</em></p>

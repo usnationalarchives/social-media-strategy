@@ -20,7 +20,7 @@ description: ""
       </a>
     </div>
   </div>
-  <div id="collapse1" class="panel-collapse collapse">
+  <div id="collapse1" class="panel-collapse collapse in">
     <div class="panel-body">
       <p>The social strategy and production team has a well-supported staff who specialize in ongoing development and innovation in social media.</p>
 

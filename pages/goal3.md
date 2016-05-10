@@ -16,12 +16,14 @@ description: ""
   <div class="panel-heading">
     <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-        3.1 <strong>Inspire people to share. </strong>Staff reach the largest possible audience by inspiring people to talk about the stories in our holdings. Our staff are stewards to the history of democracy, our American government, and its citizens. Our documents inspire emotional responses that lead to social sharing.
+        3.1 <strong>Inspire people to share. </strong>
       </a>
     </div>
   </div>
   <div id="collapse1" class="panel-collapse collapse">
     <div class="panel-body">
+
+      <p>Staff reach the largest possible audience by inspiring people to talk about the stories in our holdings. Our staff are stewards to the history of democracy, our American government, and its citizens. Our documents inspire emotional responses that lead to social sharing.</p>
 
       <p>Action: The teams focuses on becoming a leader in the GLAM community by creating a space on Archives.gov that serves a resource for hashtags and other social trends for other cultural heritage institutions.</p>
 
@@ -64,12 +66,14 @@ description: ""
   <div class="panel-heading">
     <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-        3.2 &nbsp;<strong>Target messaging to specific audiences and platforms. </strong>Staff understand our audiences and go where those audiences are. We have compelling messaging across different formats so that our communications are targeted to the specific needs of each audience and platform.
+        3.2 &nbsp;<strong>Target messaging to specific audiences and platforms. </strong>
       </a>
     </div>
   </div>
   <div id="collapse2" class="panel-collapse collapse">
     <div class="panel-body">
+      <p>Staff understand our audiences and go where those audiences are. We have compelling messaging across different formats so that our communications are targeted to the specific needs of each audience and platform.</p>
+
       <p>Action: Content creators focus efforts on connecting with key audiences that are particularly active on social media and offer growth potential, including educators, history buffs, curious nerds, museum visitors, and genealogists.</p>
 
 
@@ -145,12 +149,15 @@ description: ""
   <div class="panel-heading">
     <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-        3.3 <strong>Connect social media to news and trends. </strong>The team studies trending news, hashtags, platforms, and current events and uses that information to determine what’s happening in the world that we can connect with<em>—</em>and what platform to connect on.
+        3.3 <strong>Connect social media to news and trends. </strong>
       </a>
     </div>
   </div>
   <div id="collapse3" class="panel-collapse collapse">
     <div class="panel-body">
+
+      <p>The team studies trending news, hashtags, platforms, and current events and uses that information to determine what’s happening in the world that we can connect with<em>—</em>and what platform to connect on.</p>
+
       <p>Action: The team looks for ways to tie our records to current issues. The team helps NARA locations host in-person events for local audiences centered on using our records in social media to &nbsp;inform modern dialogues about current events.</p>
 
       <p>Action: The team supports the agency’s overall communications goals with social media outreach tactics. We meet regularly with colleagues in the Office of Public and Media Communications to find out what is coming up and how we can help public affairs specialists tell stories on social media.</p>

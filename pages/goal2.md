@@ -39,12 +39,13 @@ description: ""
   <div class="panel-heading">
     <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-      2.2 <strong>Leverage partners and influencers who encourage their audiences to engage with us. </strong>The team researches, forms, and develops partnerships with people and organizations to help spread the word about our campaigns. The team uses these partnerships to learn more about our audiences and their needs.
+      2.2 <strong>Leverage partners and influencers who encourage their audiences to engage with us. </strong>
       </a>
     </div>
   </div>
   <div id="collapse2" class="panel-collapse collapse">
     <div class="panel-body">
+      <p>The team researches, forms, and develops partnerships with people and organizations to help spread the word about our campaigns. The team uses these partnerships to learn more about our audiences and their needs.</p>
 
       <p>Action: Ask our partners and our audiences what they want. The team helps develop partnerships with organizations and influencers (power users on social platforms) to learn what our audiences want so that our combined campaign efforts make a greater impact. For each major social campaign, content creators have at least one official partnership and reach out to at least one influencer.</p>
 
@@ -63,12 +64,14 @@ description: ""
   <div class="panel-heading">
     <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-      2.3 &nbsp;<strong>Use crowdsourcing to drive participation in our mission. </strong>The team creates crowdsourcing opportunities for audiences to contribute their skills and experiences to our mission.
+      2.3 &nbsp;<strong>Use crowdsourcing to drive participation in our mission. </strong>
       </a>
     </div>
   </div>
   <div id="collapse3" class="panel-collapse collapse">
     <div class="panel-body">
+      <p>The team creates crowdsourcing opportunities for audiences to contribute their skills and experiences to our mission.</p>
+
       <p>Action: Social media posts include calls to action as a way to participate in the story, whether by sharing, commenting, or transcribing.</p>
 
       <p>Action: The National Archives offers participatory opportunities on social media that can’t be found elsewhere. For example, we partner with Mount Vernon on July 4 to transcribe documents written by George Washington.</p>
@@ -87,12 +90,14 @@ description: ""
   <div class="panel-heading">
     <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-      2.4 <strong>Create new ways to discover and share latest stories.</strong> The team creates a flagship news feed on the National Archives website that pulls in posts from our social media channels. Audiences can choose and curate stories from this entertaining up-to-date news stream.
+      2.4 <strong>Create new ways to discover and share latest stories.</strong>
       </a>
     </div>
   </div>
   <div id="collapse4" class="panel-collapse collapse">
     <div class="panel-body">
+      <p>The team creates a flagship news feed on the National Archives website that pulls in posts from our social media channels. Audiences can choose and curate stories from this entertaining up-to-date news stream.</p>
+
       <p>Action: The team coordinates development or procurement of a tool for aggregating and displaying social media on our websites.We track social media and web data on the most popular topics that audiences respond to on our digital publications. We use these topics to establish filtered categories that audiences can personalize and subscribe to.</p>
 
       <p>Action: The team brainstorms new ways to leverage social media content. For example, we pilot a new monthly email newsletter featuring interesting content for an audience that prefers recaps and email.</p>

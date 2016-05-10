@@ -15,12 +15,14 @@ description: ""
     <div class="panel-heading">
       <div class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-          1.1 &nbsp;&nbsp;<strong>Support staff storytelling. </strong>A dedicated social strategy and production team (“the team”) provides direction and coordination for effective messaging. This team works to bring staff ideas to life through research, development, design, production, project coordination, and partnerships. See 4.1<em> for more information about the creation of the team and the skillsets and tasks required to support a social media community across the agency.</em>
+          1.1 &nbsp;&nbsp;<strong>Support staff storytelling. </strong>
         </a>
       </div>
     </div>
     <div id="collapse1" class="panel-collapse collapse">
       <div class="panel-body">
+
+        <p>A dedicated social strategy and production team (“the team”) provides direction and coordination for effective messaging. This team works to bring staff ideas to life through research, development, design, production, project coordination, and partnerships. See 4.1<em> for more information about the creation of the team and the skillsets and tasks required to support a social media community across the agency.</em></p>
 
         <p>Action: &nbsp;The team coaches staff content creators from our staff in how to use the content strategy to craft great stories and set success metrics that illuminate audience interests through data.</p>
 
@@ -140,12 +142,14 @@ description: ""
   <div class="panel-heading">
     <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-        1.3 <strong>Focus on quality and impact over quantity. </strong>We excel in the venues that we choose to participate in and reevaluate the projects that don’t meet our needs. We recognize that social media success is labor intensive. We want staff to have time and resources to engage with projects that make the most impact with our audiences. Making the best use of staff time means making hard choices about what <em>not </em>to do.
+        1.3 <strong>Focus on quality and impact over quantity. </strong>
       </a>
     </div>
   </div>
   <div id="collapse3" class="panel-collapse collapse">
     <div class="panel-body">
+      <p>We excel in the venues that we choose to participate in and reevaluate the projects that don’t meet our needs. We recognize that social media success is labor intensive. We want staff to have time and resources to engage with projects that make the most impact with our audiences. Making the best use of staff time means making hard choices about what <em>not </em>to do.</p>
+
       <p>
       Action: The team helps content creators focus on a small number of projects. Content creators focus on depth and quality and move away from the current emphasis on quantity, sometimes using fewer platforms and posting less. Content creators are able to say no to projects that take time but have little impact.</p>
       <p>
@@ -166,12 +170,14 @@ description: ""
   <div class="panel-heading">
     <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-        1.4 &nbsp;<strong>We create exceptional content that uses the latest technology and has a consistent visual identity.</strong> Our content is professionally designed and reflects our status as a world-class cultural institution. As a visual medium, social media must be sophisticated and eye-catching. All National Archives social media content meets visual design standards that reinforce our brand and match the expectations of today's image-based social platforms. &nbsp;
+        1.4 &nbsp;<strong>We create exceptional content that uses the latest technology and has a consistent visual identity.</strong>
       </a>
     </div>
   </div>
   <div id="collapse4" class="panel-collapse collapse">
     <div class="panel-body">
+      <p>Our content is professionally designed and reflects our status as a world-class cultural institution. As a visual medium, social media must be sophisticated and eye-catching. All National Archives social media content meets visual design standards that reinforce our brand and match the expectations of today's image-based social platforms.</p>
+
       <p>Action: The team makes style guides, tip sheets, tutorials, and templates available to all staff so that they can can write well-crafted stories and create high-quality images and other multimedia formats.</p>
       <p>
       Action: Members of the team have professional graphic design and video production skills so that they can help content creators create and maintain a strong visual identity. The team produces graphics, interactive tools like quizzes, and video shorts that can be embedded in social media platforms.</p>

@@ -57,6 +57,8 @@ navigation:
   url: /resources/
 - text: Sources
   url: /sources/
+-text: Instructions for Feedback
+  url: /feedback/
 
 
 # sass

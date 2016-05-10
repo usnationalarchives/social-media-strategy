@@ -15,12 +15,12 @@ description: ""
 <div class="panel panel-default">
   <div class="panel-heading">
     <div class="panel-title">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" class="in">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
         <span id="g1">4.1</span> &nbsp;<strong>Create a social strategy and production team.</strong>
       </a>
     </div>
   </div>
-  <div id="collapse1" class="panel-collapse collapse in">
+  <div id="collapse1" class="panel-collapse collapse">
     <div class="panel-body">
       <p>The social strategy and production team has a well-supported staff who specialize in ongoing development and innovation in social media.</p>
 

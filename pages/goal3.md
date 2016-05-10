@@ -15,12 +15,12 @@ description: ""
 <div class="panel panel-default">
   <div class="panel-heading">
     <div class="panel-title">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" class="in">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
         3.1 <strong>Inspire people to share. </strong>
       </a>
     </div>
   </div>
-  <div id="collapse1" class="panel-collapse collapse in">
+  <div id="collapse1" class="panel-collapse collapse">
     <div class="panel-body">
 
       <p>Staff reach the largest possible audience by inspiring people to talk about the stories in our holdings. Our staff are stewards to the history of democracy, our American government, and its citizens. Our documents inspire emotional responses that lead to social sharing.</p>

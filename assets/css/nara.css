@@ -21,6 +21,31 @@ aside p{
   font-size: 18px;
 }
 
+header{
+	padding:1em;
+}
+
+header .pg_header{
+}
+
+header .pg_header h1{
+	font-size:1.6em;
+	line-height:1em;
+}
+
+header .pg_header h2{
+	font-size:1.2em;
+	height:auto;
+	margin:0;
+}
+header .pg_header h2 a{ 
+	color:white;
+}
+
+header .header_menu{ border:1px green;
+        font-size:1em;}
+        line-height:1em;
+}
 
 .panel-heading{
   padding:0;
@@ -50,5 +75,41 @@ aside p{
   right:20px;
   top:18px;
   position:absolute;
+
+}
+
+
+@media print{
+
+header{
+position:relative;
+display:block;
+}
+.header_menu{
+	display:none;
+}
+
+aside{
+	display:none;
+}
+article{
+	width:100%;
+	margin:0;
+	padding:0;
+}
+
+.collapse { display: block !important; height: auto !important; }
+
+.panel-group .panel, .panel-group .panel-heading, .panel-group .panel-title{
+	padding:0;
+	margin:0;
+}
+.panel-title a span.glyphicon{
+	display:none;
+}
+
+a:after{
+	content:"" !important;
+}
 
 }

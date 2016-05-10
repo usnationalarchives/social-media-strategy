@@ -46,7 +46,7 @@ aside p{
 }
 
 
-.panel-title a span{
+.panel-title a span.glyphicon{
   right:20px;
   top:18px;
   position:absolute;

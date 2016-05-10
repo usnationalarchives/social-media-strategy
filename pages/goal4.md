@@ -15,7 +15,7 @@ description: ""
 <div class="panel panel-default">
   <div class="panel-heading">
     <div class="panel-title">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" class="in">
         <span id="g1">4.1</span> &nbsp;<strong>Create a social strategy and production team.</strong>
       </a>
     </div>

@@ -14,7 +14,7 @@ description: ""
 <div class="panel panel-default">
   <div class="panel-heading">
     <div class="panel-title">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1"  class="in">
         2.1 <strong>Coordinate agency-wide campaigns for maximum engagement. </strong>
       </a>
     </div>

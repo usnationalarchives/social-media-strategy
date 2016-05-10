@@ -12,7 +12,7 @@ description: ""
 <div class="panel panel-default">
   <div class="panel-heading">
     <div class="panel-title">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+      <a data-toggle="collapse" href="#collapse1">
       button1
       </a>
     </div>

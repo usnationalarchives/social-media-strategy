@@ -38,6 +38,7 @@ aside p{
 }
 .panel-title a:hover{
   background-color: #d6d7d9;
+  outline: none;
 }
 
 .panel-title a:link, .panel-title a:visited, .panel-title a:focus{
@@ -49,5 +50,5 @@ aside p{
   right:20px;
   top:18px;
   position:absolute;
-  
+
 }

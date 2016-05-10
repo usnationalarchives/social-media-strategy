@@ -24,13 +24,13 @@ description: ""
 
           <p>A dedicated social strategy and production team (“the team”) provides direction and coordination for effective messaging. This team works to bring staff ideas to life through research, development, design, production, project coordination, and partnerships. See 4.1<em> for more information about the creation of the team and the skillsets and tasks required to support a social media community across the agency.</em></p>
 
-          <p>Action: &nbsp;The team coaches staff content creators from our staff in how to use the content strategy to craft great stories and set success metrics that illuminate audience interests through data.</p>
+          <p><b>Action:</b> &nbsp;The team coaches staff content creators from our staff in how to use the content strategy to craft great stories and set success metrics that illuminate audience interests through data.</p>
 
-          <p>Action: The team creates a Digital Plan for all projects. The Digital Plan template functions as a checklist of best practices and is also a capsule strategy to guide each campaign and project. The project/content owner and the team collaborate on the plan. The framework helps content creators set goals and strategies, show evidence of success, and reflect on lessons learned post-project.</p>
+          <p><b>Action:</b> The team creates a Digital Plan for all projects. The Digital Plan template functions as a checklist of best practices and is also a capsule strategy to guide each campaign and project. The project/content owner and the team collaborate on the plan. The framework helps content creators set goals and strategies, show evidence of success, and reflect on lessons learned post-project.</p>
 
-          <p>Action: The team coordinates the logistics for different levels of staff involvement that minimize the labor-intensive nature of social media account management. Greater staff participation is encouraged through scalable roles. In some cases the role could be managing an account full-time; in others, it could be short-term, project-based participation, or as a content provider.</p>
+          <p><b>Action:</b> The team coordinates the logistics for different levels of staff involvement that minimize the labor-intensive nature of social media account management. Greater staff participation is encouraged through scalable roles. In some cases the role could be managing an account full-time; in others, it could be short-term, project-based participation, or as a content provider.</p>
 
-          <p>Action: The team establishes and leads a Social Media Idea Lab to support NARA staff in honing their social media skills. It will include four areas of specialization:</p>
+          <p><b>Action:</b> The team establishes and leads a Social Media Idea Lab to support NARA staff in honing their social media skills. It will include four areas of specialization:</p>
 
           <div>
           <table>
@@ -124,9 +124,9 @@ description: ""
       </div>
       <div id="collapse2" class="panel-collapse collapse">
         <div class="panel-body">
-        <p>Action: The team works with social media content creators to create an agency-wide content strategy that outlines the goals, objectives, defined measures of success, timeline, partners, and post-production reflection.</p>
+        <p><b>Action:</b> The team works with social media content creators to create an agency-wide content strategy that outlines the goals, objectives, defined measures of success, timeline, partners, and post-production reflection.</p>
 
-        <p>Action: Staff use the content strategy as a guide to create everyday posts, special campaigns, and longer-term editorial plans.</p>
+        <p><b>Action:</b> Staff use the content strategy as a guide to create everyday posts, special campaigns, and longer-term editorial plans.</p>
 
       </div>
       </div>
@@ -151,13 +151,13 @@ description: ""
         <p>We excel in the venues that we choose to participate in and reevaluate the projects that don’t meet our needs. We recognize that social media success is labor intensive. We want staff to have time and resources to engage with projects that make the most impact with our audiences. Making the best use of staff time means making hard choices about what <em>not </em>to do.</p>
 
         <p>
-        Action: The team helps content creators focus on a small number of projects. Content creators focus on depth and quality and move away from the current emphasis on quantity, sometimes using fewer platforms and posting less. Content creators are able to say no to projects that take time but have little impact.</p>
+        <b>Action:</b> The team helps content creators focus on a small number of projects. Content creators focus on depth and quality and move away from the current emphasis on quantity, sometimes using fewer platforms and posting less. Content creators are able to say no to projects that take time but have little impact.</p>
         <p>
-        Action: The team procures and maintains a Social Media Analytics Dashboard for staff that visualizes social media metrics, giving content creators feedback and concrete data on what is working and what is not. &nbsp;Data is available to all content creators so that they can make strategic decisions about platforms to add or remove. To encourage open data and transparency, the dashboard can be viewed by the public.</p>
+        <b>Action:</b> The team procures and maintains a Social Media Analytics Dashboard for staff that visualizes social media metrics, giving content creators feedback and concrete data on what is working and what is not. &nbsp;Data is available to all content creators so that they can make strategic decisions about platforms to add or remove. To encourage open data and transparency, the dashboard can be viewed by the public.</p>
         <p>
-        Action: Content creators use analytics to evaluate the performance of our posts. We create content that is successful and avoid content that does not perform well.
+        <b>Action:</b> Content creators use analytics to evaluate the performance of our posts. We create content that is successful and avoid content that does not perform well.
         </p>
-        <p>Action: &nbsp;Our curators select records for an exhibit to give visitors the best experience in a museum, and we apply this approach to our social media platforms. The team plans workshops led by NARA curators on how they select, edit, and plan exhibits that draw audiences in.</p>
+        <p><b>Action:</b> &nbsp;Our curators select records for an exhibit to give visitors the best experience in a museum, and we apply this approach to our social media platforms. The team plans workshops led by NARA curators on how they select, edit, and plan exhibits that draw audiences in.</p>
 
     </div>
     </div>
@@ -178,13 +178,13 @@ description: ""
       <div class="panel-body">
         <p>Our content is professionally designed and reflects our status as a world-class cultural institution. As a visual medium, social media must be sophisticated and eye-catching. All National Archives social media content meets visual design standards that reinforce our brand and match the expectations of today's image-based social platforms.</p>
 
-        <p>Action: The team makes style guides, tip sheets, tutorials, and templates available to all staff so that they can can write well-crafted stories and create high-quality images and other multimedia formats.</p>
+        <p><b>Action:</b> The team makes style guides, tip sheets, tutorials, and templates available to all staff so that they can can write well-crafted stories and create high-quality images and other multimedia formats.</p>
         <p>
-        Action: Members of the team have professional graphic design and video production skills so that they can help content creators create and maintain a strong visual identity. The team produces graphics, interactive tools like quizzes, and video shorts that can be embedded in social media platforms.</p>
+        <b>Action:</b> Members of the team have professional graphic design and video production skills so that they can help content creators create and maintain a strong visual identity. The team produces graphics, interactive tools like quizzes, and video shorts that can be embedded in social media platforms.</p>
         <p>
-        Action: The team creates a workflow that makes it easy for content creators to work with designers.</p>
+        <b>Action:</b> The team creates a workflow that makes it easy for content creators to work with designers.</p>
         <p>
-        Action: The team creates or helps provide templates and tools for content creators to use to make graphics according to our brand-aligned designs.</p>
+        <b>Action:</b> The team creates or helps provide templates and tools for content creators to use to make graphics according to our brand-aligned designs.</p>
     </div>
     </div>
   </div>

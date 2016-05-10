@@ -25,19 +25,19 @@ description: ""
 
       <p>Staff reach the largest possible audience by inspiring people to talk about the stories in our holdings. Our staff are stewards to the history of democracy, our American government, and its citizens. Our documents inspire emotional responses that lead to social sharing.</p>
 
-      <p>Action: The teams focuses on becoming a leader in the GLAM community by creating a space on Archives.gov that serves a resource for hashtags and other social trends for other cultural heritage institutions.</p>
+      <p><b>Action:</b> The teams focuses on becoming a leader in the GLAM community by creating a space on Archives.gov that serves a resource for hashtags and other social trends for other cultural heritage institutions.</p>
 
-      <p>Action: The team addresses our photo policies within our public spaces. We need to improve our services, like wifi, to encourage digital sharing while visitors are in our physical spaces.</p>
+      <p><b>Action:</b> The team addresses our photo policies within our public spaces. We need to improve our services, like wifi, to encourage digital sharing while visitors are in our physical spaces.</p>
 
-      <p>Action: The team defines a strategy for choosing hashtags that encourage personal connections and social sharing.</p>
+      <p><b>Action:</b> The team defines a strategy for choosing hashtags that encourage personal connections and social sharing.</p>
 
-      <p>Action: The team uses reference desk statistics from across the National Archives to compile data on the most-requested items in our holdings. We feature these documents on social media to extend their reach to audiences who cannot visit in person.</p>
+      <p><b>Action:</b> The team uses reference desk statistics from across the National Archives to compile data on the most-requested items in our holdings. We feature these documents on social media to extend their reach to audiences who cannot visit in person.</p>
 
-      <p>Action: The team ensures that web content is easy to share on popular platforms with simple tools and buttons.</p>
+      <p><b>Action:</b> The team ensures that web content is easy to share on popular platforms with simple tools and buttons.</p>
 
-      <p>Action: Content creators connect with local communities to bring people physically to NARA locations through in-person events like Instameets, Tweet Ups, and Wikipedia edit-a-thons.</p>
+      <p><b>Action:</b> Content creators connect with local communities to bring people physically to NARA locations through in-person events like Instameets, Tweet Ups, and Wikipedia edit-a-thons.</p>
 
-      <p>Action: We build on the expertise of our content creators who are using successfully social media to drive physical traffic to public programs. The team establishes a working group for these content creators to:</p>
+      <p><b>Action:</b> We build on the expertise of our content creators who are using successfully social media to drive physical traffic to public programs. The team establishes a working group for these content creators to:</p>
 
       <ul>
         <li>
@@ -74,7 +74,7 @@ description: ""
     <div class="panel-body">
       <p>Staff understand our audiences and go where those audiences are. We have compelling messaging across different formats so that our communications are targeted to the specific needs of each audience and platform.</p>
 
-      <p>Action: Content creators focus efforts on connecting with key audiences that are particularly active on social media and offer growth potential, including educators, history buffs, curious nerds, museum visitors, and genealogists.</p>
+      <p><b>Action:</b> Content creators focus efforts on connecting with key audiences that are particularly active on social media and offer growth potential, including educators, history buffs, curious nerds, museum visitors, and genealogists.</p>
 
 
 
@@ -133,9 +133,9 @@ description: ""
       </table>
       </div>
 
-      <p>Action: Staff use analytics, user personas, and other user experience tools to better understand our audiences and their use patterns.</p>
+      <p><b>Action:</b> Staff use analytics, user personas, and other user experience tools to better understand our audiences and their use patterns.</p>
 
-      <p>Action: Staff choose the best platforms for each post and do not inundate our audiences across platforms. We tailor each post to the platform and to the audience we intend to connect with. We reflect on our performance on various platforms.</p>
+      <p><b>Action:</b> Staff choose the best platforms for each post and do not inundate our audiences across platforms. We tailor each post to the platform and to the audience we intend to connect with. We reflect on our performance on various platforms.</p>
     </div>
   </div>
 </div>
@@ -158,17 +158,17 @@ description: ""
 
       <p>The team studies trending news, hashtags, platforms, and current events and uses that information to determine what’s happening in the world that we can connect with<em>—</em>and what platform to connect on.</p>
 
-      <p>Action: The team looks for ways to tie our records to current issues. The team helps NARA locations host in-person events for local audiences centered on using our records in social media to &nbsp;inform modern dialogues about current events.</p>
+      <p><b>Action:</b> The team looks for ways to tie our records to current issues. The team helps NARA locations host in-person events for local audiences centered on using our records in social media to &nbsp;inform modern dialogues about current events.</p>
 
-      <p>Action: The team supports the agency’s overall communications goals with social media outreach tactics. We meet regularly with colleagues in the Office of Public and Media Communications to find out what is coming up and how we can help public affairs specialists tell stories on social media.</p>
+      <p><b>Action:</b> The team supports the agency’s overall communications goals with social media outreach tactics. We meet regularly with colleagues in the Office of Public and Media Communications to find out what is coming up and how we can help public affairs specialists tell stories on social media.</p>
 
-      <p>Action: The team works with the Office of Public and Media Communications to pitch traditional and news media on our social stories and campaigns. Public affairs specialists advise on what social content and campaigns interest traditional media outlets, and we ask them to pitch our campaigns to them. We create social media press kits that are built into the traditional press kits. We ask the Office of Public and Media Communications to pitch our social campaigns to social publications like Buzzfeed, Mashable, and TechCrunch.</p>
+      <p><b>Action:</b> The team works with the Office of Public and Media Communications to pitch traditional and news media on our social stories and campaigns. Public affairs specialists advise on what social content and campaigns interest traditional media outlets, and we ask them to pitch our campaigns to them. We create social media press kits that are built into the traditional press kits. We ask the Office of Public and Media Communications to pitch our social campaigns to social publications like Buzzfeed, Mashable, and TechCrunch.</p>
 
-      <p>Action: The team meet regularly with our Employee Communications staff to look for stories and give staff who aren’t on social media a new way to reach us with their stories.</p>
+      <p><b>Action:</b> The team meet regularly with our Employee Communications staff to look for stories and give staff who aren’t on social media a new way to reach us with their stories.</p>
 
-      <p>Action: The team creates a Trend Team that &nbsp;keeps us up to date on the latest trends related to history, cultural organizations, government, and social media usage. The team includes staff with expertise in social media, marketing and communications, and technology. The team invites external experts to speak to staff about trends and hosts conversations with staff to generate ideas on the ICN.</p>
+      <p><b>Action:</b> The team creates a Trend Team that &nbsp;keeps us up to date on the latest trends related to history, cultural organizations, government, and social media usage. The team includes staff with expertise in social media, marketing and communications, and technology. The team invites external experts to speak to staff about trends and hosts conversations with staff to generate ideas on the ICN.</p>
 
-      <p>Action: We add and prune platforms and tactics based on our research of external trends.</p>
+      <p><b>Action:</b> We add and prune platforms and tactics based on our research of external trends.</p>
     </div>
   </div>
 </div>
@@ -188,41 +188,71 @@ description: ""
   </div>
   <div id="collapse4" class="panel-collapse collapse">
     <div class="panel-body">
-      <p>Action: We budget for, plan, use, and analyze regular paid posting on Instagram, Twitter, and Facebook. This might include promoted posts, hashtags, and accounts.</p>
+      <p><b>Action:</b> We budget for, plan, use, and analyze regular paid posting on Instagram, Twitter, and Facebook. This might include promoted posts, hashtags, and accounts.</p>
 
-      <p>Action: We partner with National Archives Foundation to coordinate the use of paid advertising to increase our reach to new audiences and to create splashy campaigns that the media want to cover.</p>
+      <p><b>Action:</b> We partner with National Archives Foundation to coordinate the use of paid advertising to increase our reach to new audiences and to create splashy campaigns that the media want to cover.</p>
+    </div>
+  </div>
+</div>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <div class="panel-title">
+      <a data-toggle="collapse" href="#collapse5">
+        <strong>Data in Action</strong>
+      </a>
+    </div>
+  </div>
+  <div id="collapse5" class="panel-collapse collapse">
+    <div class="panel-body">
+      <p>Information about our audiences and their behaviors helps us to better connect with customers and deliver them the content they want to interact with.</p>
+
+      <ul>
+        <li>
+        Staff use analytics to study our audience’s behaviors and inform choices for platform and content. This data also feeds into our use of user personas and understanding of the digital user experience.
+        </li>
+      </ul>
+
+      <ul>
+        <li>
+        Staff use campaign URLs, hashtags, and tools (such as Google Analytics Campaigns) to track clicks and engagement with our content, including referrals to our website. This information helps us better understand the digital customer journey.
+        </li>
+        <li>
+        Staff track audience engagement metrics (such as comments, shares, replies, use of hashtags) for every platform and examine the data for our most and least successful posts so that we understand and can build on audience preferences.
+        </li>
+        <li>
+        The Digital Plan includes an easy-to-use worksheet for content creators to use to identify and track success measurements for their projects and posts. Staff share these worksheets on the ICN where everyone can use their experiences to improve their own campaigns and postings.
+        </li>
+      </ul>
     </div>
   </div>
 </div>
 
-
-
-
-<strong>Data in Action</strong>
-
-Information about our audiences and their behaviors helps us to better connect with customers and deliver them the content they want to interact with.
-
-<ul>
-  <li>
-  Staff use analytics to study our audience’s behaviors and inform choices for platform and content. This data also feeds into our use of user personas and understanding of the digital user experience.
-  </li>
-</ul>
-
-<ul>
-  <li>
-  Staff use campaign URLs, hashtags, and tools (such as Google Analytics Campaigns) to track clicks and engagement with our content, including referrals to our website. This information helps us better understand the digital customer journey.
-  </li>
-  <li>
-  Staff track audience engagement metrics (such as comments, shares, replies, use of hashtags) for every platform and examine the data for our most and least successful posts so that we understand and can build on audience preferences.
-  </li>
-  <li>
-  The Digital Plan includes an easy-to-use worksheet for content creators to use to identify and track success measurements for their projects and posts. Staff share these worksheets on the ICN where everyone can use their experiences to improve their own campaigns and postings.
-  </li>
-</ul>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <div class="panel-title">
+      <a data-toggle="collapse" href="#collapse6">
+        <strong>Strategy in Action</strong>
+      </a>
+    </div>
+  </div>
+  <div id="collapse6" class="panel-collapse collapse">
+    <div class="panel-body">
+      <ul>
+        <li>As the strategy is implemented, this document will be updated with examples of successes and lessons learned for each goal.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 </div>
-<strong>Strategy in Action</strong>
 
-<ul>
-  <li>As the strategy is implemented, this document will be updated with examples of successes and lessons learned for each goal.</li>
-</ul>
+
+
+
+
+
+
+
+
+
+

@@ -24,9 +24,9 @@ description: ""
     <div class="panel-body">
       <p>The social strategy and production team has a well-supported staff who specialize in ongoing development and innovation in social media.</p>
 
-      <p>Action: We assemble a team that can focus, provide direction for, and support the agency’s social media needs. Managers and supervisors assign tasks and provide direction and guidance for the cross-departmental team. Putting together the right team will require identifying staff members, developing skillsets, and providing a structure for the group to operate within.</p>
+      <p><b>Action:</b> We assemble a team that can focus, provide direction for, and support the agency’s social media needs. Managers and supervisors assign tasks and provide direction and guidance for the cross-departmental team. Putting together the right team will require identifying staff members, developing skillsets, and providing a structure for the group to operate within.</p>
 
-      <p>Action: We define and refine task areas that support the professional development of NARA staff in social media management. Members of the team will take leadership roles in serving and providing training in the following areas.</p>
+      <p><b>Action:</b> We define and refine task areas that support the professional development of NARA staff in social media management. Members of the team will take leadership roles in serving and providing training in the following areas.</p>
 
       <div>
         <table>
@@ -182,15 +182,15 @@ description: ""
       <p>We work with staff to create a vibrant culture of social media innovation, collaboration, educational opportunities, and partnerships.<strong> </strong>The team provides staff the training and skills necessary to succeed, and we support staff efforts with our collective resources and expertise. We share successes, learn from each other, and work together to innovate.</p>
 
 
-      <p>Action: The team creates guidelines that are easy to use, meaningful, and address real-life issues that social media managers are experiencing. We use infographics, checklists, and tip sheets to make these best practices appealing and easy to use.</p>
+      <p><b>Action:</b> The team creates guidelines that are easy to use, meaningful, and address real-life issues that social media managers are experiencing. We use infographics, checklists, and tip sheets to make these best practices appealing and easy to use.</p>
 
-      <p>Action: The team uses NARAtions as a digital training blog, making it both a place for analysis of our digital engagement and a training guide and repository for staff experiences. The blog features guidance, shares lessons learned, and offers models of social media success. We use NARAtions as place to share innovative ideas and report back on collaborations. The blog is available to NARA staff and the public.</p>
+      <p><b>Action:</b> The team uses NARAtions as a digital training blog, making it both a place for analysis of our digital engagement and a training guide and repository for staff experiences. The blog features guidance, shares lessons learned, and offers models of social media success. We use NARAtions as place to share innovative ideas and report back on collaborations. The blog is available to NARA staff and the public.</p>
 
-      <p>Action: The team supports communication and collaboration with the social media community across NARA, leads two-way communication with staff with monthly educational sessions on various channels (like webinars, calls, and Google Hangouts), reaches out via an email newsletter, and uses space on the ICN to consolidate information. We ask staff for feedback and act on what they say.</p>
+      <p><b>Action:</b> The team supports communication and collaboration with the social media community across NARA, leads two-way communication with staff with monthly educational sessions on various channels (like webinars, calls, and Google Hangouts), reaches out via an email newsletter, and uses space on the ICN to consolidate information. We ask staff for feedback and act on what they say.</p>
 
-      <p>Action: The team organizes organize lightning sessions and field trips for content creators to discuss and explore new ideas. We invite outside expertise to help us get inspired.</p>
+      <p><b>Action:</b> The team organizes organize lightning sessions and field trips for content creators to discuss and explore new ideas. We invite outside expertise to help us get inspired.</p>
 
-      <p>Action: We increase visibility (and show the importance of social media) with managers and supervisors by sharing success and highlighting staff in a monthly report that shares little successes like retweets from famous people, stakeholder reactions to current archival projects, and numbers of people downloading eBooks and attending Hub events.</p>
+      <p><b>Action:</b> We increase visibility (and show the importance of social media) with managers and supervisors by sharing success and highlighting staff in a monthly report that shares little successes like retweets from famous people, stakeholder reactions to current archival projects, and numbers of people downloading eBooks and attending Hub events.</p>
     </div>
   </div>
 </div>
@@ -213,9 +213,9 @@ description: ""
 
       <p>Across the National Archives, we incorporate social media into all initiatives from the beginning, not as an afterthought. Currently, social media development is requested toward the end of project timelines. This limits our ability to imagine and plan for larger social media impact, partnerships, and audience outreach. By incorporating social media into early phases of creative development, we build in time for quality, depth, and execution for both large initiatives and smaller projects.</p>
 
-      <p>Action: Each department with presence on social media (especially Exhibits, Education, and Public Programs) has a point of contact on the team.</p>
+      <p><b>Action:</b> Each department with presence on social media (especially Exhibits, Education, and Public Programs) has a point of contact on the team.</p>
 
-      <p>Action: Every exhibition should have a social media strategy and a budget for paid social media placements.</p>
+      <p><b>Action:</b> Every exhibition should have a social media strategy and a budget for paid social media placements.</p>
     </div>
   </div>
 </div>
@@ -238,35 +238,64 @@ description: ""
 
       <p>We make it easy for staff who don’t usually work on social media<em>—</em>archivists or archives technicians, for instance<em>—</em>to share the stories of the fascinating documents they encounter while working or share their otherwise fascinating roles at NARA.
       </p>
-      <p>Action: We create and maintain technology, resources, and equipment to increase staff participation in social media.</p>
+      <p><b>Action:</b> We create and maintain technology, resources, and equipment to increase staff participation in social media.</p>
 
-      <p>Action: To simplify the process of involving staff who aren’t content creators but come across interesting content in their daily work, we provide scanners in staff work areas. Staff can then instantly digitize and upload files to the catalog, which will provide fresh content on social media.</p>
+      <p><b>Action:</b> To simplify the process of involving staff who aren’t content creators but come across interesting content in their daily work, we provide scanners in staff work areas. Staff can then instantly digitize and upload files to the catalog, which will provide fresh content on social media.</p>
 
-      <p>Action: Develop easy ways for staff to identify a story to share on social media, such as working with the team or the embedded “staff reporters” to go from interesting nugget of information to published social media post.</p>
+      <p><b>Action:</b> Develop easy ways for staff to identify a story to share on social media, such as working with the team or the embedded “staff reporters” to go from interesting nugget of information to published social media post.</p>
 
-      <p>Action: &nbsp;A major hurdle in government social media is reliance on negotiated terms of service agreements. We work with NARA’s General Counsel to address the roadblocks and troubleshoot ways to make sure we follow the law without stifling our creativity.</p>
+      <p><b>Action:</b> &nbsp;A major hurdle in government social media is reliance on negotiated terms of service agreements. We work with NARA’s General Counsel to address the roadblocks and troubleshoot ways to make sure we follow the law without stifling our creativity.</p>
+    </div>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <div class="panel-title">
+      <a data-toggle="collapse" href="#collapse5">
+        <strong>Data in Action</strong>
+      </a>
+    </div>
+  </div>
+  <div id="collapse5" class="panel-collapse collapse">
+    <div class="panel-body">
+      <p>Data about campaigns, audiences, and past successes is critical for supporting the development of staff skillsets in social media.</p>
+
+      <ul>
+        <li>
+        Content creators regularly participate in Data Lab workshops to get hands-on experience in social media data analysis and to evaluate the performance and trends of their published channels and content.
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <div class="panel-title">
+      <a data-toggle="collapse" href="#collapse6">
+        <strong>Strategy in Action</strong>
+      </a>
+    </div>
+  </div>
+  <div id="collapse6" class="panel-collapse collapse">
+    <div class="panel-body">
+      <ul>
+        <li>
+        As the strategy is implemented, this document will be updated with examples of successes and lessons learned for each goal.
+        </li>
+      </ul>
     </div>
   </div>
 </div>
 
 
 
-
 </div>
-<strong>Data in Action</strong>
 
-Data about campaigns, audiences, and past successes is critical for supporting the development of staff skillsets in social media.
 
-<ul>
-  <li>
-  Content creators regularly participate in Data Lab workshops to get hands-on experience in social media data analysis and to evaluate the performance and trends of their published channels and content.
-  </li>
-</ul>
 
-<strong>Strategy in Action</strong>
 
-<ul>
-  <li>
-  As the strategy is implemented, this document will be updated with examples of successes and lessons learned for each goal.
-  </li>
-</ul>
+
+

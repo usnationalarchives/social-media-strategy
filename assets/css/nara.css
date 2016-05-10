@@ -27,8 +27,11 @@ aside p{
 }
 .panel-title a{
   display:block;
+  position:relative;
   text-decoration:none;
   padding: 10px 15px;
+  background-color:#F1F1F1;
+  padding-right:40px;
 }
 .panel-title a:link{
   color: black;
@@ -37,6 +40,14 @@ aside p{
   background-color: #d6d7d9;
 }
 
-.panel-title a:link, .panel-title a:visited{
-    border-bottom: none;
+.panel-title a:link, .panel-title a:visited, .panel-title a:focus{
+    border:none;
+}
+
+
+.panel-title a span{
+  right:20px;
+  top:18px;
+  position:absolute;
+  
 }

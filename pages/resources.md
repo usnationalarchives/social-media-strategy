@@ -12,13 +12,7 @@ description: ""
   <a href="../digitalplan/">NARA Digital Plan</a>
   </li>
   <li>
-  <a href="../overview/">One-page overview</a>
-  </li>
-  <li>
-  Action Items Timeline
-  </li>
-  <li>
-  Rollout Calendar
+  <a href="../onepage.pdf">One-page overview</a>
   </li>
 </ul>
 

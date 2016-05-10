@@ -7,6 +7,8 @@ description: ""
 
 ## Sources
 
+Our strategy was inspired by the following models and articles.
+
 <ul>
   <li>
   <a href="https://github.com/thewarholmuseum/digital-strategy/blob/master/index.md" style="text-decoration:none;">Warhol Digital Strategy</a>

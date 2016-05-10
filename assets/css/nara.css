@@ -25,8 +25,6 @@ header{
 	padding:1em;
 }
 
-header .pg_header{
-}
 
 header .pg_header h1{
 	font-size:1.6em;
@@ -42,14 +40,16 @@ header .pg_header h2 a{
 	color:white;
 }
 
-header .header_menu{ border:1px green;
-        font-size:1em;}
+header .header_menu{ 
+        font-size:1em;
         line-height:1em;
 }
 
-.panel-heading{
+div.panel-heading{
   padding:0;
+  margin:0;
 }
+
 .panel-title a{
   display:block;
   position:relative;
@@ -58,6 +58,7 @@ header .header_menu{ border:1px green;
   background-color:#F1F1F1;
   padding-right:40px;
 }
+
 .panel-title a:link{
   color: black;
 }

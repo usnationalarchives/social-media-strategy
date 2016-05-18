@@ -36,8 +36,10 @@ branch: gh-pages
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
+- text: Home
   url: /
+- text: Introduction
+  url: /introduction/
 - text: Vision
   url: /vision/
 - text: Goals

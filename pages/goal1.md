@@ -22,9 +22,9 @@ description: ""
       <div id="collapse1" class="panel-collapse collapse">
         <div class="panel-body">
 
-          <p>A dedicated social strategy and production team (“the team”) provides direction and coordination for effective messaging. This team works to bring staff ideas to life through research, development, design, production, project coordination, and partnerships. See 4.1<em> for more information about the creation of the team and the skillsets and tasks required to support a social media community across the agency.</em></p>
+          <p>A dedicated social strategy and production team (“the team”) provides direction and coordination for effective messaging. This team works to bring staff ideas to life through research, development, design, production, project coordination, and partnerships. <a href="../goal4/#g1">See 4.1</a><em> for more information about the creation of the team and the skillsets and tasks required to support a social media community across the agency.</em></p>
 
-          <p><b>Action:</b> &nbsp;The team coaches staff content creators from our staff in how to use the content strategy to craft great stories and set success metrics that illuminate audience interests through data.</p>
+          <p><b>Action:</b> &nbsp;The team coaches staff content creators in how to use the content strategy to craft great stories and set success metrics that illuminate audience interests through data.</p>
 
           <p><b>Action:</b> The team creates a Digital Plan for all projects. The Digital Plan template functions as a checklist of best practices and is also a capsule strategy to guide each campaign and project. The project/content owner and the team collaborate on the plan. The framework helps content creators set goals and strategies, show evidence of success, and reflect on lessons learned post-project.</p>
 
@@ -244,11 +244,9 @@ description: ""
     </div>
     <div id="collapse6" class="panel-collapse collapse">
       <div class="panel-body">
-        <ul>
-          <li>
-          As the strategy is implemented, this document will be updated with examples of successes and lessons learned for each goal.
-          </li>
-        </ul>
+        <p>
+          <em>As the strategy is implemented, we will update this space with examples of successes and lessons learned.</em>
+        </p>
       </div>
     </div>
   </div>

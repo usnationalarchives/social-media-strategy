@@ -7,7 +7,7 @@ description: ""
 
 ## Goal 2: Deepen Engagement
 
-<em>Our mission is to make access happen. In the broadest sense, we want to people to see and experience our holdings—whether they are in a research room, in an exhibit space, or on a computer—and then share these stories with others. Rather than just publishing content, we want to hear from our audiences and deepen our </em><em>relationships with them through feedback and conversation. We want our curious visitors to connect with the stories in our holdings and become loyal, enthusiastic advocates for the work of the National Archives. We want to engage our audiences through exciting, low-barrier opportunities to be a part of our mission and do meaningful work on behalf of their country and fellow citizens. </em>
+<em>Our mission is to make access happen. In the broadest sense, we want people to see and experience our holdings—whether they are in a research room, in an exhibit space, or on a computer—and then share these stories with others. Rather than just publishing content, we want to hear from our audiences and deepen our </em><em>relationships with them through feedback and conversation. We want our curious visitors to connect with the stories in our holdings and become loyal, enthusiastic advocates for the work of the National Archives. We want to engage our audiences through exciting, low-barrier opportunities to be a part of our mission and do meaningful work on behalf of their country and fellow citizens. </em>
 
 <div class="panel-group" id="accordion">
 
@@ -141,9 +141,7 @@ description: ""
   </div>
   <div id="collapse6" class="panel-collapse collapse">
     <div class="panel-body">
-      <ul>
-        <li>As the strategy is implemented, this document will be updated with examples of successes and lessons learned for each goal.</li>
-      </ul>
+      <em>As the strategy is implemented, we will update this space with examples of successes and lessons learned.</em>
     </div>
   </div>
 </div>

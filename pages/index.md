@@ -5,6 +5,8 @@ permalink: /
 description: ""
 ---
 
+We want to hear from you! National Archives staff, please tell us what you think about this draft of our new social media strategy. Our first stage is to incorporate feedback from our staff. Next, we will ask other cultural institutions to provide their suggestions. Finally, we will welcome comments from the public and update the strategy as a living document.
+
 ## Introduction
 
 The National Archives was founded in 1934 to preserve the records of the Federal Government and make them available to its citizens. Since then, we have grown to include 13 Presidential libraries and museums, multiple archival facilities, and educational centers located across the country. We reach millions of visitors and researchers each year at these locations.

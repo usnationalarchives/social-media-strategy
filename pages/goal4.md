@@ -84,7 +84,7 @@ description: ""
               Community Management
               </td>
               <td style="vertical-align:top">
-              Regularly communicate and facilitate collaboration with social media practitioners across the agency .
+              Regularly communicate and facilitate collaboration with social media practitioners across the agency.
               </td>
             </tr>
             <tr>
@@ -100,7 +100,7 @@ description: ""
               Platform Review
               </td>
               <td style="vertical-align:top">
-              Facilitate regular reviews of platforms and accounts to evaluate how projects can be strengthened, supported, or retired
+                  Facilitate regular reviews of platforms and accounts to evaluate how projects can be strengthened, supported, or retired.
               </td>
             </tr>
             <tr>
@@ -281,11 +281,9 @@ description: ""
   </div>
   <div id="collapse6" class="panel-collapse collapse">
     <div class="panel-body">
-      <ul>
-        <li>
-        As the strategy is implemented, this document will be updated with examples of successes and lessons learned for each goal.
-        </li>
-      </ul>
+      <em>
+        As the strategy is implemented, we will update this space with examples of successes and lessons learned.
+      </em>
     </div>
   </div>
 </div>

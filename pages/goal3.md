@@ -25,7 +25,7 @@ description: ""
 
       <p>Staff reach the largest possible audience by inspiring people to talk about the stories in our holdings. Our staff are stewards to the history of democracy, our American government, and its citizens. Our documents inspire emotional responses that lead to social sharing.</p>
 
-      <p><b>Action:</b> The teams focuses on becoming a leader in the GLAM community by creating a space on Archives.gov that serves a resource for hashtags and other social trends for other cultural heritage institutions.</p>
+      <p><b>Action:</b> The teams focuses on becoming a leader in the GLAM community by creating a space on Archives.gov that serves as a resource for hashtags and other social trends for other cultural heritage institutions.</p>
 
       <p><b>Action:</b> The team addresses our photo policies within our public spaces. We need to improve our services, like wifi, to encourage digital sharing while visitors are in our physical spaces.</p>
 
@@ -37,7 +37,7 @@ description: ""
 
       <p><b>Action:</b> Content creators connect with local communities to bring people physically to NARA locations through in-person events like Instameets, Tweet Ups, and Wikipedia edit-a-thons.</p>
 
-      <p><b>Action:</b> We build on the expertise of our content creators who are using successfully social media to drive physical traffic to public programs. The team establishes a working group for these content creators to:</p>
+      <p><b>Action:</b> We build on the expertise of our content creators who are successfully using social media to drive physical traffic to public programs. The team establishes a working group for these content creators to:</p>
 
       <ul>
         <li>
@@ -204,7 +204,7 @@ description: ""
   </div>
   <div id="collapse5" class="panel-collapse collapse">
     <div class="panel-body">
-      <p>Information about our audiences and their behaviors helps us to better connect with customers and deliver them the content they want to interact with.</p>
+      <p>Information about our audiences and their behaviors helps us to connect with customers and give them the content they want</p>
 
       <ul>
         <li>
@@ -237,9 +237,7 @@ description: ""
   </div>
   <div id="collapse6" class="panel-collapse collapse">
     <div class="panel-body">
-      <ul>
-        <li>As the strategy is implemented, this document will be updated with examples of successes and lessons learned for each goal.</li>
-      </ul>
+      <em>As the strategy is implemented, we will update this space with examples of successes and lessons learned.</em>
     </div>
   </div>
 </div>

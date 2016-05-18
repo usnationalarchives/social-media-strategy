@@ -9,7 +9,8 @@ description: ""
 
 <ul>
   <li>
-  <a href="../digitalplan/">NARA Digital Plan</a>
+  <a href="../digitalplan/">NARA Digital Plan</a><br>
+  The Digital Plan worksheet is in development, but here are our starting building blocks.
   </li>
   <li>
   <a href="../onepage.pdf">One-page overview</a>

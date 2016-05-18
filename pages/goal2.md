@@ -110,7 +110,7 @@ description: ""
 <div class="panel panel-default">
   <div class="panel-heading">
     <div class="panel-title">
-      <a data-toggle="collapse" href="#collapse5">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
       <strong>Data in Action</strong>
       </a>
     </div>
@@ -134,7 +134,7 @@ description: ""
 <div class="panel panel-default">
   <div class="panel-heading">
     <div class="panel-title">
-      <a data-toggle="collapse" href="#collapse6">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
         <strong>Strategy in Action</strong>
       </a>
     </div>

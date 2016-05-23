@@ -26,7 +26,7 @@ This strategy consists of four goals, each with its own initiatives and action s
 
 
 
-<img src="../assets/images/venndiagram.jpg" alt="Venn Diagram - Tell Great Stories, Deepen Engagement, Grow Our Audience, and Cultivate a Social Media Community of Practice" style="-webkit-transform:rotate(0.00rad); border:none; height:565px; transform:rotate(0.00rad); width:614px" />
+<img src="../assets/images/venndiagram.png" alt="Venn Diagram - Tell Great Stories, Deepen Engagement, Grow Our Audience, and Cultivate a Social Media Community of Practice" style="-webkit-transform:rotate(0.00rad); border:none; height:565px; transform:rotate(0.00rad); width:614px" />
 
 
 

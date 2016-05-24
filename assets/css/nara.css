@@ -69,8 +69,8 @@ header .header_menu{
   padding-right:10px;
 }
 
-header .header_menu a, header .header_menu a:link{
-  color:black !important;
+header .header_menu, header .header_menu a, header .header_menu a:link{   
+  color: #0072ce !important;
 }
 @media screen and (max-width: 600px) {
   header {
@@ -84,7 +84,9 @@ header .header_menu a, header .header_menu a:link{
   }
   header .pg_header img{
     margin-top:-5px;
-    margin-right:20px;
+    
+    
+    
     
   }
 }

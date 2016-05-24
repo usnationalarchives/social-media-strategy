@@ -32,15 +32,21 @@ header{
   display:block;
   position:relative;
   padding: 0;
+  background: url(../images/headertexture.png) left top repeat-x;
+  
 }
 
 header img{
   max-width: 100%;
-  height: auto; 
+  height: auto;   
 }
 
 
-
+header .pg_header{  
+  padding-top:2em;
+  width:30%;
+  position:relative;
+}
 
 header .pg_header h1{
 	font-size:1.6em;
@@ -61,6 +67,26 @@ header .header_menu{
   line-height:1em;
   margin-top:-1.2em;
   padding-right:10px;
+}
+
+header .header_menu a, header .header_menu a:link{
+  color:black !important;
+}
+@media screen and (max-width: 600px) {
+  header {
+    min-height:0px;
+  }
+  header .pg_header{
+    padding-top:0px;
+    width:100%;
+    overflow:hidden;
+    
+  }
+  header .pg_header img{
+    margin-top:-5px;
+    margin-right:20px;
+    
+  }
 }
 
 div.panel-heading{

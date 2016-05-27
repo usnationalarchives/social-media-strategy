@@ -11,6 +11,10 @@ body{
   font-size: 1.5em;
 }
 
+h1,h2{
+  font-family:UniveLigUltCon;
+}
+
 article{
   margin-top:0px;
 }
@@ -27,25 +31,31 @@ aside p{
 }
 
 header{	
-  min-height:80px;
+  
   height:auto;
   display:block;
   position:relative;
   padding: 0;
-  background: url(../images/headertexture.png) left top repeat-x;
+  background: url(../images/headerbg.png) left top repeat-x;
+  
   
 }
 
 header img{
   max-width: 100%;
-  height: auto;   
+  
+  
+  bottom:0px;
+  
 }
 
 
 header .pg_header{  
-  padding-top:2em;
+  
+  padding-top:20px;
   width:30%;
   position:relative;
+  
 }
 
 header .pg_header h1{
@@ -123,6 +133,11 @@ div.panel-heading{
   top:18px;
   position:absolute;
 
+}
+
+.main-content h2{
+  font-size:2.3em;
+  margin-top:.5em;
 }
 
 

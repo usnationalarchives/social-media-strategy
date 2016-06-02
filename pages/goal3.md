@@ -188,7 +188,7 @@ description: ""
   </div>
   <div id="collapse4" class="panel-collapse collapse">
     <div class="panel-body">
-      <p>We selectively use paid advertising to reach new audiences.</p>p>
+      <p>We selectively use paid advertising to reach new audiences.</p>
       <p><b>Action:</b> We budget for, plan, use, and analyze regular paid posting on Instagram, Twitter, and Facebook. This might include promoted posts, hashtags, and accounts.</p>
 
       <p><b>Action:</b> We partner with National Archives Foundation to coordinate the use of paid advertising to increase our reach to new audiences and to create splashy campaigns that the media want to cover.</p>

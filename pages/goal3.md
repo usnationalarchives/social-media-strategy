@@ -182,12 +182,13 @@ description: ""
   <div class="panel-heading">
     <div class="panel-title">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-        3.4 <strong>Strategically boost our efforts with paid media. </strong>We selectively use paid advertising to reach new audiences.
+        3.4 <strong>Strategically boost our efforts with paid media. </strong>
       </a>
     </div>
   </div>
   <div id="collapse4" class="panel-collapse collapse">
     <div class="panel-body">
+      <p>We selectively use paid advertising to reach new audiences.</p>p>
       <p><b>Action:</b> We budget for, plan, use, and analyze regular paid posting on Instagram, Twitter, and Facebook. This might include promoted posts, hashtags, and accounts.</p>
 
       <p><b>Action:</b> We partner with National Archives Foundation to coordinate the use of paid advertising to increase our reach to new audiences and to create splashy campaigns that the media want to cover.</p>
@@ -204,7 +205,7 @@ description: ""
   </div>
   <div id="collapse5" class="panel-collapse collapse">
     <div class="panel-body">
-      <p>Information about our audiences and their behaviors helps us to connect with customers and give them the content they want</p>
+      <p>Information about our audiences and their behaviors helps us to connect with customers and give them the content they want.</p>
 
       <ul>
         <li>

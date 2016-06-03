@@ -19,5 +19,7 @@ description: ""
   <li>
   <a href="../assets/images/Social media complete long file.jpg" target="_blank">Social Media Strategy Principles</a>
   </li>
+  <li>
+  <a href="../SocialMediaStrategyFY17-20ForComment.pdf" target="_blank">National Archives Social Media Strategy FY17-20 For Comment</a> (PDF)
 </ul>
 

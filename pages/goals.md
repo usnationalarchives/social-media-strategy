@@ -20,7 +20,7 @@ This strategy consists of four goals, each with its own initiatives and action s
   <a href="../goal3/">Grow Our Audience</a>
   </li>
   <li>
-  <a href="../goal4">Cultivate a Social Media Community of Practice</a>
+  <a href="../goal4">Cultivate a Social Media Community</a>
   </li>
 </ol>
 

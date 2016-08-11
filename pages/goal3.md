@@ -25,7 +25,7 @@ description: ""
 
       <p>Staff reach the largest possible audience by inspiring people to talk about the stories in our holdings. Our staff are stewards to the history of democracy, our American government, and its citizens. Our documents inspire emotional responses that lead to social sharing.</p>
 
-      <p><b>Action:</b> The teams focuses on becoming a leader in the GLAM community by creating a space on Archives.gov that serves as a resource for hashtags and other social trends for other cultural heritage institutions.</p>
+      <p><b>Action:</b> The teams focuses on becoming a leader in the GLAM (Galleries Libraries Archives Museums) community by creating a space on Archives.gov that serves as a resource for hashtags and other social trends for other cultural heritage institutions.</p>
 
       <p><b>Action:</b> The team addresses our photo policies within our public spaces. We need to improve our services, like wifi, to encourage digital sharing while visitors are in our physical spaces.</p>
 

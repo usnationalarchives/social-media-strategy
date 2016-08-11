@@ -14,7 +14,7 @@ description: ""
   </li>
   <li>
   <a href="../assets/images/Social media strategy 8.5 x 11 (2).jpg" target="_blank">Social media strategy 8.5 x 11</a>
-  (<a href="Social Media Strategy 8.5 x 11.pdf" target="_blank">PDF</a>)
+  (<a href="https://github.com/nara-web/social-media-strategy/blob/gh-pages/assets/images/Social%20Media%20Strategy%208.5%20x%2011.pdf" target="_blank">PDF</a>)
   </li>
   <li>
   <a href="ACTIVESocialMediaStrategyFY17-20.pdf" target="_blank">National Archives Social Media Strategy FY17-20 For Comment</a> (PDF)

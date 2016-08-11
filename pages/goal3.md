@@ -166,7 +166,7 @@ description: ""
 
       <p><b>Action:</b> The team meet regularly with our Employee Communications staff to look for stories and give staff who aren’t on social media a new way to reach us with their stories.</p>
 
-      <p><b>Action:</b> The team creates a Trend Team that &nbsp;keeps us up to date on the latest trends related to history, cultural organizations, government, and social media usage. The team includes staff with expertise in social media, marketing and communications, and technology. The team invites external experts to speak to staff about trends and hosts conversations with staff to generate ideas on the ICN.</p>
+      <p><b>Action:</b> The team creates a Trend Team that &nbsp;keeps us up to date on the latest trends related to history, cultural organizations, government, and social media usage. The team includes staff with expertise in social media, marketing and communications, and technology. The team invites external experts to speak to staff about trends and hosts conversations with staff to generate ideas on the Internal Collaboration Network (ICN).</p>
 
       <p><b>Action:</b> We add and prune platforms and tactics based on our research of external trends.</p>
     </div>

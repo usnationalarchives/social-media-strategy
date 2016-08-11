@@ -17,6 +17,6 @@ description: ""
   (<a href="https://github.com/nara-web/social-media-strategy/blob/gh-pages/assets/images/Social%20Media%20Strategy%208.5%20x%2011.pdf" target="_blank">PDF</a>)
   </li>
   <li>
-  <a href="https://github.com/nara-web/social-media-strategy/blob/gh-pages/assets/images/ACTIVESocialMediaStrategyFY17-20.pdf"</a> (PDF)
+  <a href="https://github.com/nara-web/social-media-strategy/blob/gh-pages/assets/images/ACTIVESocialMediaStrategyFY17-20.pdf"target="_blank">Social Media Strategy</a> (PDF)
 
 

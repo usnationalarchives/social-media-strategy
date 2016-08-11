@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Social Media Strategy | Goal 4: Cultivate a Social Media Community"
+title: "Social Media Strategy | Goal 4: Cultivate a Community of Practice"
 permalink: /goal4/
 description: ""
 ---
 
-## Goal 4: Cultivate a Social Media Community
+## Goal 4: Cultivate a Community of Practice
 
 <em>Our social strategy and production team serves as a community manager and an internal resource for staff. We help our staff across the nation become a cohesive community that seizes opportunities to develop special media skill sets and works together to make the biggest impact.</em>
 

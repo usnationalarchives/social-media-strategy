@@ -188,7 +188,7 @@ description: ""
 
       <p><b>Action:</b> The team supports communication and collaboration with the social media community across NARA, leads two-way communication with staff with monthly educational sessions on various channels (like webinars, calls, and Google Hangouts), reaches out via an email newsletter, and uses space on the ICN to consolidate information. We ask staff for feedback and act on what they say.</p>
 
-      <p><b>Action:</b> The team organizes organize lightning sessions and field trips for content creators to discuss and explore new ideas. We invite outside expertise to help us get inspired.</p>
+      <p><b>Action:</b> The team organizes lightning sessions and field trips for content creators to discuss and explore new ideas. We invite outside expertise to help us get inspired.</p>
 
       <p><b>Action:</b> We increase visibility (and show the importance of social media) with managers and supervisors by sharing success and highlighting staff in a monthly report that shares little successes like retweets from famous people, stakeholder reactions to current archival projects, and numbers of people downloading eBooks and attending Hub events.</p>
     </div>

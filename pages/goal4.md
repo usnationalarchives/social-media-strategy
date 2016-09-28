@@ -289,7 +289,7 @@ description: ""
   <div id="collapse6" class="panel-collapse collapse">
     <div class="panel-body">
       
-        Two new community managers for the National Archives Catalog have been hired. They share newly digitized and available content in the catalog, and promote citizen archivist activities. <a href="http://us11.campaign-archive1.com/?u=bfeaf03e7b0b1636c0b375892&id=95c72f2030">Meet Meredith and Suzanne</a>
+        Two new community managers for the National Archives Catalog have been hired. They share newly digitized and available content in the Catalog, and promote citizen archivist activities. <a href="http://us11.campaign-archive1.com/?u=bfeaf03e7b0b1636c0b375892&id=95c72f2030">Meet Meredith and Suzanne</a>
      
     </div>
   </div>

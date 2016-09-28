@@ -179,7 +179,7 @@ description: ""
   </div>
   <div id="collapse2" class="panel-collapse collapse">
     <div class="panel-body">
-      <p>We work with staff to create a vibrant culture of social media innovation, collaboration, educational opportunities, and partnerships.<strong> </strong>The team provides staff the training and skills necessary to succeed, and we support staff efforts with our collective resources and expertise. We share successes, learn from each other, and work together to innovate.</p>
+      <p>We work with staff to create a vibrant culture of social media innovation, collaboration, educational opportunities, and partnerships.<strong> </strong>The team provides staff the training and skills necessary to succeed, and we support staff efforts with our collective resources and expertise. We share successes, learn from each other, and work together to innovate. We strive to be good social media neighbors in the GLAM community by sharing and pioneering ideas in a digital community group.</p>
 
 
       <p><b>Action:</b> The team creates guidelines that are easy to use, meaningful, and address real-life issues that social media managers are experiencing. We use infographics, checklists, and tip sheets to make these best practices appealing and easy to use.</p>

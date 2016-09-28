@@ -190,7 +190,14 @@ description: ""
 
       <p><b>Action:</b> The team organizes lightning sessions and field trips for content creators to discuss and explore new ideas. We invite outside expertise to help us get inspired.</p>
 
-      <p><b>Action:</b> We increase visibility (and show the importance of social media) with managers and supervisors by sharing success and highlighting staff in a monthly report that shares little successes like retweets from famous people, stakeholder reactions to current archival projects, and numbers of people downloading eBooks and attending Hub events.</p>
+      <p><b>Action:</b> The team increases visibility (and show the importance of social media) with managers and supervisors by sharing success and highlighting staff in a monthly report that shares little successes like retweets from famous people, stakeholder reactions to current archival projects, and numbers of people downloading eBooks and attending Hub events.</p>
+      
+      <p><b>Action:</b> The team creates a social media group with the GLAM community that meets and shares ideas, successes, and lessons learned in the Innovation Hub.</p>
+      
+      <p><b>Action:</b> The team develops relationships with internal diversity groups  to focus on records related to communities that are often under-documented in archives. </p>
+      
+      <p><b>Action:</b> The team facilitates coordinated campaigns for the cultural heritage months such as Black History Month, LGBT Pride Month, Native American Heritage Month, and Asian Pacific American Heritage Month. 
+</p>
     </div>
   </div>
 </div>
@@ -282,7 +289,7 @@ description: ""
   <div id="collapse6" class="panel-collapse collapse">
     <div class="panel-body">
       <em>
-        As the strategy is implemented, we will update this space with examples of successes and lessons learned.
+        Two new community managers for the National Archives Catalog have been hired. They share newly digitized and available content in the catalog, and promote citizen archivist activities. <a href="http://us11.campaign-archive1.com/?u=bfeaf03e7b0b1636c0b375892&id=95c72f2030">Meet Meredith and Suzanne</a>
       </em>
     </div>
   </div>

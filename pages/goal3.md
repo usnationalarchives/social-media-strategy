@@ -50,6 +50,10 @@ description: ""
         explore tactics like promoting hashtags on-site and in exhibit labels, provide screens that display geotagged images from visitors, and optimizing specific tools like Instagram, Twitter, Yelp, and more.
         </li>
       </ul>
+      
+    <p><b>Action:</b> We work with staff from internal diversity groups to highlight a wider array of documents. As new records are digitized, we want to make these often-unknown stories more accessible.</p>
+
+
 
 
 

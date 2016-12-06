@@ -19,5 +19,5 @@ With the explosion of digital choices, audience needs have changed and their cri
 
 As we continue to digitize more of our holdings, we have more stories to share. We also want to tell our audiences about the work of our diverse staff and the stories they find. Our staff need an updated social media strategy that guides decision-making and focuses our energies and resources so that we can make a bigger impact and more deeply engage people online. This updated strategy also aims to create more opportunities for different levels of staff participation so that we can have greater coordination and impact in the stories that we share.
 
-This new strategy document looks toward the next three years (FY 2017–2020) and will evolve over time. It is intended to serve our staff and help them create digital content that engages, delights, and illuminates!
+This new strategy document looks toward the next three years (FY 2017–2020) and will evolve over time. It is intended to serve our staff and help them create digital content that engages, delights, and illuminates.
 

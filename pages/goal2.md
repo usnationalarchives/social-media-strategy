@@ -140,8 +140,10 @@ description: ""
     </div>
   </div>
   <div id="collapse6" class="panel-collapse collapse">
-    <div class="panel-body">
-      <em>As the strategy is implemented, we will update this space with examples of successes and lessons learned.</em>
+   <div class="panel-body">
+        	<p><a href="http://www.archives.gov/calendar/election-collection/" target="_blank"><strong>#ElectionCollection</strong>&nbsp;</a>Through #ElectionCollection, we built an engaged community of more than 100 institutions, earned an average weekly reach of 4 million, and grew our own Instagram and Twitter audiences. The posts reached a combined 64 million users on Twitter and Instagram, with an average weekly reach of 4 million.  On Tuesdays, when we announced the week’s theme, Twitter “impressions” for @USNatArchives doubled and sometimes tripled &nbsp;&nbsp;</p>
+	<ul><li><em>What People are Saying: </em><em>““For the past few months, the Presidential Libraries of the National Archives and PBS's American Experience have been running a Twitter and Instagram hashtag—#ElectionCollection—as a way of encouraging museums, libraries, archives, and collectors to share their election-related documents and memorabilia. The results have been glorious.”-</em><em><a href="http://www.slate.com/blogs/the_vault/2016/11/08/political_memorabilia_from_past_years_shared_via_electioncollection.html" target="_blank">Slate</a></em></li></ul>
+      </div>
     </div>
   </div>
 </div>

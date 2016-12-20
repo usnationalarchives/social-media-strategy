@@ -241,9 +241,9 @@ description: ""
     </div>
   </div>
   <div id="collapse6" class="panel-collapse collapse">
-    <div class="panel-body">
-      <em>As the strategy is implemented, we will update this space with examples of successes and lessons learned.</em>
-    </div>
+   <div class="panel-body">
+        	<p><a href="http://www.archives.gov/calendar/election-collection/" target="_blank"><strong>#ElectionCollection</strong>&nbsp;</a>In the first month of #ElectionCollection over 60 organizations <a href="https://www.archives.gov/calendar/election-collection/partners.html	" target="_blank">joined the challenge</a>; by four months it exceed 100. It immediately became clear that #ElectionCollection was exceeding our expectations and filling a need in the GLAM community to swap stories and share the visual wealth of our collections around a common topic. A number of influential organizations credited #ElectionCollection with inspiring their own projects on campaign history. This exciting, unexpected outcome resulted in both physical exhibits and online features!  &nbsp;&nbsp;</p>
+      </div>
   </div>
 </div>
 

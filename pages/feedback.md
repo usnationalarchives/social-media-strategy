@@ -16,7 +16,7 @@ The National Archives Social Media Strategy was written by:
   </ul>
  <p> Contact us at socialmedia@nara.gov</p>
 
-<p> welcome your comments and questions. You may provide feedback in one of three ways.</p>
+<p>We welcome your comments and questions. You may provide feedback in one of three ways.</p>
 
 <ol>
   <li>

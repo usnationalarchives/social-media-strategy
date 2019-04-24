@@ -28,5 +28,5 @@ The National Archives Social Media Strategy was written by:
 <li>Mary King (Office of Public and Media Communications Social Media Team)</li>
   <li>Hilary Parkinson (Office of Public and Media Communications Social Media Team)</li>
   </ul>
-  Contact us at socialmedia@nara.gov
+ <p> Contact us at socialmedia@nara.gov</p>
 

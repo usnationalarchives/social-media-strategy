@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Social Media Strategy | Instructions for Feedback
+title: Social Media Strategy | Contact Us!
 permalink: /feedback/
 description: ""
 ---
 
-## Instructions for Feedback
+## Contact Us!
 
 We welcome your comments and questions. You may provide feedback in one of three ways.
 
@@ -20,3 +20,5 @@ We welcome your comments and questions. You may provide feedback in one of three
   <p>Direct changes and line edits to the content are welcome through "<a href="https://help.github.com/articles/creating-a-pull-request">pull requests</a>" by clicking "<a href="https://github.com/{{ site.org_name }}/social-media-strategy/edit/gh-pages/pages/index.md">Edit this page</a>" (if prompted, follow the instructions to "Fork this repository and propose changes"). You do not need to install any software to suggest a change. You can use GitHub’s in-browser editor to edit files and submit a pull request for your changes to be merged into the document.</p>
   </li>
 </ol>
+
+

@@ -22,9 +22,11 @@ As we continue to digitize more of our holdings, we have more stories to share. 
 This new strategy document looks toward the next three years (FY 2017–2020) and will evolve over time. It is intended to serve our staff and help them create digital content that engages, delights, and illuminates.
 
 The National Archives Social Media Strategy was written by: 
-<ul>Kristen Albrittain (Office of Public and Media Communications Social Media Team)
+<ul>
+  <li>Kristen Albrittain (Office of Public and Media Communications Social Media Team)</li>
   <li>Jeannie Chen (Office of Presidential Libraries)</li>
 <li>Mary King (Office of Public and Media Communications Social Media Team)</li>
   <li>Hilary Parkinson (Office of Public and Media Communications Social Media Team)</li>
-  <li>socialmedia@nara.gov</li>
-</ul>
+  </ul>
+  Contact us at socialmedia@nara.gov
+

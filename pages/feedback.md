@@ -7,6 +7,15 @@ description: ""
 
 ## Contact Us!
 
+The National Archives Social Media Strategy was written by: 
+<ul>
+  <li>Kristen Albrittain (Office of Public and Media Communications Social Media Team)</li>
+  <li>Jeannie Chen (Office of Presidential Libraries)</li>
+<li>Mary King (Office of Public and Media Communications Social Media Team)</li>
+  <li>Hilary Parkinson (Office of Public and Media Communications Social Media Team)</li>
+  </ul>
+ <p> Contact us at socialmedia@nara.gov</p>
+
 We welcome your comments and questions. You may provide feedback in one of three ways.
 
 <ol>
